@@ -1,0 +1,906 @@
+Date,Occupancy,PricePerNight,Revenue,PropertyID,GuestID,ReviewSummary
+2024-08-05,1,169,169,P001,G1001,"A perfect stay, felt like home!"
+2024-08-06,1,123,123,P001,G1001,"Loved the location, very convenient!"
+2024-08-07,1,85,85,P001,G1001,"A perfect stay, felt like home!"
+2024-08-08,1,134,134,P001,G1001,"Super cozy, highly recommend!"
+2024-08-09,0,196,0,P001,G0,
+2024-08-10,1,202,202,P001,G1002,Host was very responsive and helpful!
+2024-08-11,1,191,191,P001,G1002,"A perfect stay, felt like home!"
+2024-08-12,1,104,104,P001,G1002,"Super cozy, highly recommend!"
+2024-08-13,1,139,139,P001,G1002,"Loved the location, very convenient!"
+2024-08-14,1,119,119,P001,G1002,"Loved the location, very convenient!"
+2024-08-15,1,87,87,P001,G1002,"Amazing stay, very clean and comfortable!"
+2024-08-16,1,166,166,P001,G1002,Great value for the price!
+2024-08-17,1,209,209,P001,G1002,Great value for the price!
+2024-08-18,1,196,196,P001,G1003,"Clean and well-maintained, fantastic experience!"
+2024-08-19,1,123,123,P001,G1003,"Great experience, would book again!"
+2024-08-20,1,112,112,P001,G1003,"Super cozy, highly recommend!"
+2024-08-21,1,164,164,P001,G1003,"Great experience, would book again!"
+2024-08-22,1,76,76,P001,G1003,"Super cozy, highly recommend!"
+2024-08-23,1,192,192,P001,G1003,"Excellent amenities, everything as described!"
+2024-08-24,1,165,165,P001,G1003,"Super cozy, highly recommend!"
+2024-08-25,1,170,170,P001,G1003,"Super cozy, highly recommend!"
+2024-08-26,1,99,99,P001,G1003,Host was very responsive and helpful!
+2024-08-27,1,137,137,P001,G1003,"A perfect stay, felt like home!"
+2024-08-28,1,122,122,P001,G1001,"Too loud at night, difficult to sleep."
+2024-08-29,1,76,76,P001,G1001,"Great experience, would book again!"
+2024-08-30,1,144,144,P001,G1001,"Clean and well-maintained, fantastic experience!"
+2024-08-31,1,135,135,P001,G1001,Host was very responsive and helpful!
+2024-09-01,1,179,179,P001,G1004,"A perfect stay, felt like home!"
+2024-09-02,1,155,155,P001,G1004,"Loved the location, very convenient!"
+2024-09-03,0,147,0,P001,G0,
+2024-09-04,1,133,133,P001,G1005,Would definitely stay here again!
+2024-09-05,1,133,133,P001,G1006,"Clean and well-maintained, fantastic experience!"
+2024-09-06,1,190,190,P001,G1007,"Super cozy, highly recommend!"
+2024-09-07,1,158,158,P001,G1007,"Clean and well-maintained, fantastic experience!"
+2024-09-08,1,147,147,P001,G1007,Would definitely stay here again!
+2024-09-09,1,72,72,P001,G1007,Host was very responsive and helpful!
+2024-09-10,1,136,136,P001,G1007,"A perfect stay, felt like home!"
+2024-09-11,1,102,102,P001,G1007,Would definitely stay here again!
+2024-09-12,1,124,124,P001,G1007,Would definitely stay here again!
+2024-09-13,1,139,139,P001,G1007,"Amazing stay, very clean and comfortable!"
+2024-09-14,1,187,187,P001,G1008,"Great experience, would book again!"
+2024-09-15,1,191,191,P001,G1008,"Loved the location, very convenient!"
+2024-09-16,1,133,133,P001,G1008,"Clean and well-maintained, fantastic experience!"
+2024-09-17,1,125,125,P001,G1008,"Loved the location, very convenient!"
+2024-09-18,1,72,72,P001,G1008,"Clean and well-maintained, fantastic experience!"
+2024-09-19,1,81,81,P001,G1008,"Amazing stay, very clean and comfortable!"
+2024-09-20,1,181,181,P001,G1008,Host was very responsive and helpful!
+2024-09-21,1,152,152,P001,G1008,Great value for the price!
+2024-09-22,1,180,180,P001,G1008,"Photos were misleading, room was smaller."
+2024-09-23,1,127,127,P001,G1009,"Not worth the price, expected better."
+2024-09-24,1,167,167,P001,G1009,"A perfect stay, felt like home!"
+2024-09-25,1,156,156,P001,G1009,Would definitely stay here again!
+2024-09-26,1,101,101,P001,G1009,"Amazing stay, very clean and comfortable!"
+2024-09-27,0,185,0,P001,G0,
+2024-09-28,1,150,150,P001,G1010,"Amazing stay, very clean and comfortable!"
+2024-09-29,0,147,0,P001,G0,
+2024-09-30,1,153,153,P001,G1008,"Excellent amenities, everything as described!"
+2024-10-01,1,120,120,P001,G1008,"Great experience, would book again!"
+2024-10-02,1,92,92,P001,G1008,Would definitely stay here again!
+2024-10-03,1,79,79,P001,G1008,Great value for the price!
+2024-10-04,1,139,139,P001,G1011,"Loved the location, very convenient!"
+2024-10-05,1,191,191,P001,G1012,"Clean and well-maintained, fantastic experience!"
+2024-10-06,1,194,194,P001,G1012,Host was very responsive and helpful!
+2024-10-07,1,170,170,P001,G1012,Great value for the price!
+2024-10-08,0,89,0,P001,G0,
+2024-10-09,1,144,144,P001,G1013,"Super cozy, highly recommend!"
+2024-10-10,1,116,116,P001,G1012,"Photos were misleading, room was smaller."
+2024-10-11,1,175,175,P001,G1012,Host was very responsive and helpful!
+2024-10-12,1,207,207,P001,G1012,Great value for the price!
+2024-10-13,1,192,192,P001,G1012,"Excellent amenities, everything as described!"
+2024-10-14,1,87,87,P001,G1012,"A perfect stay, felt like home!"
+2024-10-15,1,75,75,P001,G1012,The cleanliness could have been better.
+2024-10-16,1,100,100,P001,G1012,Would definitely stay here again!
+2024-10-17,0,73,0,P001,G0,
+2024-10-18,0,180,0,P001,G0,
+2024-10-19,1,140,140,P001,G1008,"Super cozy, highly recommend!"
+2024-10-20,1,178,178,P001,G1013,Would definitely stay here again!
+2024-10-21,1,122,122,P001,G1013,Great value for the price!
+2024-10-22,1,98,98,P001,G1014,"Excellent amenities, everything as described!"
+2024-10-23,1,87,87,P001,G1014,"Great experience, would book again!"
+2024-10-24,1,70,70,P001,G1014,"Amazing stay, very clean and comfortable!"
+2024-10-25,1,134,134,P001,G1014,"Excellent amenities, everything as described!"
+2024-10-26,1,183,183,P001,G1014,Great value for the price!
+2024-10-27,1,200,200,P001,G1014,Great value for the price!
+2024-10-28,1,79,79,P001,G1014,"Super cozy, highly recommend!"
+2024-10-29,1,94,94,P001,G1007,"Great experience, would book again!"
+2024-10-30,1,140,140,P001,G1001,"Excellent amenities, everything as described!"
+2024-10-31,1,135,135,P001,G1001,"Host was slow to respond, frustrating."
+2024-11-01,1,198,198,P001,G1001,Great value for the price!
+2024-11-02,1,176,176,P001,G1006,The cleanliness could have been better.
+2024-11-03,1,177,177,P001,G1006,"Not as expected, had some issues."
+2024-11-04,1,143,143,P001,G1006,"Great experience, would book again!"
+2024-11-05,1,120,120,P001,G1006,Host was very responsive and helpful!
+2024-11-06,1,156,156,P001,G1006,"Super cozy, highly recommend!"
+2024-11-07,1,107,107,P001,G1006,"Excellent amenities, everything as described!"
+2024-11-08,1,170,170,P001,G1006,"A perfect stay, felt like home!"
+2024-11-09,1,172,172,P001,G1002,"Loved the location, very convenient!"
+2024-11-10,1,191,191,P001,G1002,Great value for the price!
+2024-11-11,1,132,132,P001,G1015,"Clean and well-maintained, fantastic experience!"
+2024-11-12,1,165,165,P001,G1015,Great value for the price!
+2024-11-13,1,108,108,P001,G1015,"Loved the location, very convenient!"
+2024-11-14,1,159,159,P001,G1015,Great value for the price!
+2024-11-15,0,144,0,P001,G0,
+2024-11-16,1,183,183,P001,G1016,"Excellent amenities, everything as described!"
+2024-11-17,1,137,137,P001,G1016,"Clean and well-maintained, fantastic experience!"
+2024-11-18,1,110,110,P001,G1016,"Loved the location, very convenient!"
+2024-11-19,0,160,0,P001,G0,
+2024-11-20,1,85,85,P001,G1017,"A perfect stay, felt like home!"
+2024-11-21,1,90,90,P001,G1017,"Great experience, would book again!"
+2024-11-22,1,130,130,P001,G1017,"Amazing stay, very clean and comfortable!"
+2024-11-23,1,200,200,P001,G1017,"A perfect stay, felt like home!"
+2024-11-24,1,150,150,P001,G1017,"A perfect stay, felt like home!"
+2024-11-25,1,142,142,P001,G1017,"Clean and well-maintained, fantastic experience!"
+2024-11-26,1,115,115,P001,G1017,"A perfect stay, felt like home!"
+2024-11-27,1,93,93,P001,G1010,Host was very responsive and helpful!
+2024-11-28,1,141,141,P001,G1010,Great value for the price!
+2024-11-29,0,144,0,P001,G0,
+2024-11-30,1,194,194,P001,G1001,Host was very responsive and helpful!
+2024-12-01,1,168,168,P001,G1001,Would definitely stay here again!
+2024-12-02,1,129,129,P001,G1001,"Great experience, would book again!"
+2024-12-03,1,125,125,P001,G1001,"Excellent amenities, everything as described!"
+2024-12-04,1,94,94,P001,G1010,"Super cozy, highly recommend!"
+2024-12-05,1,157,157,P001,G1010,Host was very responsive and helpful!
+2024-12-06,1,172,172,P001,G1010,Great value for the price!
+2024-12-07,1,191,191,P001,G1010,"Loved the location, very convenient!"
+2024-12-08,1,149,149,P001,G1010,"Clean and well-maintained, fantastic experience!"
+2024-12-09,1,76,76,P001,G1013,Host was very responsive and helpful!
+2024-12-10,1,105,105,P001,G1013,"Too loud at night, difficult to sleep."
+2024-12-11,1,121,121,P001,G1013,"Host was slow to respond, frustrating."
+2024-12-12,1,112,112,P001,G1003,"Photos were misleading, room was smaller."
+2024-12-13,1,207,207,P001,G1003,"Super cozy, highly recommend!"
+2024-12-14,1,175,175,P001,G1003,"Great experience, would book again!"
+2024-12-15,1,183,183,P001,G1003,Host was very responsive and helpful!
+2024-12-16,1,104,104,P001,G1003,"Super cozy, highly recommend!"
+2024-12-17,1,147,147,P001,G1003,Would definitely stay here again!
+2024-12-18,1,148,148,P001,G1003,"Not perfect for the area, felt overpriced."
+2024-12-19,1,142,142,P001,G1003,Host was very responsive and helpful!
+2024-12-20,1,193,193,P001,G1003,"Clean and well-maintained, fantastic experience!"
+2024-12-21,1,151,151,P001,G1003,"A perfect stay, felt like home!"
+2024-12-22,1,196,196,P001,G1018,"A perfect stay, felt like home!"
+2024-12-23,0,79,0,P001,G0,
+2024-12-24,1,122,122,P001,G1019,Great value for the price!
+2024-12-25,1,118,118,P001,G1020,"Excellent amenities, everything as described!"
+2024-12-26,1,136,136,P001,G1020,"A perfect stay, felt like home!"
+2024-12-27,1,152,152,P001,G1020,"Clean and well-maintained, fantastic experience!"
+2024-12-28,1,176,176,P001,G1020,Great value for the price!
+2024-12-29,1,186,186,P001,G1020,"Excellent amenities, everything as described!"
+2024-12-30,1,130,130,P001,G1020,"Super cozy, highly recommend!"
+2024-12-31,1,86,86,P001,G1020,"Amazing stay, very clean and comfortable!"
+2025-01-01,1,96,96,P001,G1021,"A perfect stay, felt like home!"
+2025-01-02,1,96,96,P001,G1021,Would definitely stay here again!
+2025-01-03,1,137,137,P001,G1022,Would definitely stay here again!
+2025-01-04,1,183,183,P001,G1022,"Excellent amenities, everything as described!"
+2025-01-05,1,162,162,P001,G1022,"Amazing stay, very clean and comfortable!"
+2025-01-06,1,94,94,P001,G1022,Host was very responsive and helpful!
+2025-01-07,0,74,0,P001,G0,
+2025-01-08,1,131,131,P001,G1002,"Excellent amenities, everything as described!"
+2025-01-09,1,167,167,P001,G1023,Host was very responsive and helpful!
+2025-01-10,1,133,133,P001,G1024,"Loved the location, very convenient!"
+2025-01-11,1,196,196,P001,G1024,"Not worth the price, expected better."
+2025-01-12,1,131,131,P001,G1024,Host was very responsive and helpful!
+2025-01-13,1,151,151,P001,G1024,"Clean and well-maintained, fantastic experience!"
+2025-01-14,1,149,149,P001,G1024,Great value for the price!
+2025-01-15,1,111,111,P001,G1024,"A perfect stay, felt like home!"
+2025-01-16,1,131,131,P001,G1024,"Not as expected, had some issues."
+2025-01-17,1,134,134,P001,G1024,"Amazing stay, very clean and comfortable!"
+2025-01-18,1,137,137,P001,G1017,"A perfect stay, felt like home!"
+2025-01-19,1,194,194,P001,G1003,"Super cozy, highly recommend!"
+2025-01-20,1,86,86,P001,G1005,"Great experience, would book again!"
+2025-01-21,1,122,122,P001,G1005,"Loved the location, very convenient!"
+2025-01-22,1,111,111,P001,G1005,"Super cozy, highly recommend!"
+2025-01-23,0,156,0,P001,G0,
+2025-01-24,1,194,194,P001,G1004,"Amazing stay, very clean and comfortable!"
+2025-01-25,1,150,150,P001,G1014,Host was very responsive and helpful!
+2025-01-26,1,139,139,P001,G1014,"Loved the location, very convenient!"
+2025-01-27,1,74,74,P001,G1025,"Not perfect for the area, felt overpriced."
+2025-01-28,1,88,88,P001,G1025,Host was very responsive and helpful!
+2025-01-29,1,140,140,P001,G1026,"Great experience, would book again!"
+2025-01-30,0,112,0,P001,G0,
+2025-01-31,1,191,191,P001,G1027,Great value for the price!
+2025-02-01,1,191,191,P001,G1027,"Super cozy, highly recommend!"
+2024-08-05,1,149,149,P002,G1025,"Loved the location, very convenient!"
+2024-08-06,1,77,77,P002,G1017,Host was very responsive and helpful!
+2024-08-07,1,84,84,P002,G1017,Host was very responsive and helpful!
+2024-08-08,1,109,109,P002,G1017,Would definitely stay here again!
+2024-08-09,1,155,155,P002,G1026,Would definitely stay here again!
+2024-08-10,1,183,183,P002,G1026,"Excellent amenities, everything as described!"
+2024-08-11,1,157,157,P002,G1026,"Amazing stay, very clean and comfortable!"
+2024-08-12,1,121,121,P002,G1026,"Amazing stay, very clean and comfortable!"
+2024-08-13,1,162,162,P002,G1026,"Clean and well-maintained, fantastic experience!"
+2024-08-14,1,110,110,P002,G1026,"Loved the location, very convenient!"
+2024-08-15,1,169,169,P002,G1026,"Not perfect for the area, felt overpriced."
+2024-08-16,1,202,202,P002,G1028,"A perfect stay, felt like home!"
+2024-08-17,1,161,161,P002,G1005,"Loved the location, very convenient!"
+2024-08-18,1,196,196,P002,G1005,"Uncomfortable stay, wouldn't recommend."
+2024-08-19,1,90,90,P002,G1005,"A perfect stay, felt like home!"
+2024-08-20,1,83,83,P002,G1005,Host was very responsive and helpful!
+2024-08-21,1,132,132,P002,G1023,"Amazing stay, very clean and comfortable!"
+2024-08-22,1,110,110,P002,G1008,"Clean and well-maintained, fantastic experience!"
+2024-08-23,1,146,146,P002,G1003,"Great experience, would book again!"
+2024-08-24,1,139,139,P002,G1010,"Great experience, would book again!"
+2024-08-25,1,159,159,P002,G1010,"Loved the location, very convenient!"
+2024-08-26,0,164,0,P002,G0,
+2024-08-27,1,109,109,P002,G1029,Would definitely stay here again!
+2024-08-28,1,90,90,P002,G1030,"Amazing stay, very clean and comfortable!"
+2024-08-29,1,75,75,P002,G1009,"Excellent amenities, everything as described!"
+2024-08-30,1,201,201,P002,G1009,Host was very responsive and helpful!
+2024-08-31,1,144,144,P002,G1020,"Loved the location, very convenient!"
+2024-09-01,1,194,194,P002,G1031,The cleanliness could have been better.
+2024-09-02,1,162,162,P002,G1016,Host was very responsive and helpful!
+2024-09-03,1,75,75,P002,G1032,"Not perfect for the area, felt overpriced."
+2024-09-04,1,152,152,P002,G1033,"A perfect stay, felt like home!"
+2024-09-05,1,77,77,P002,G1033,"Uncomfortable stay, wouldn't recommend."
+2024-09-06,0,171,0,P002,G0,
+2024-09-07,1,173,173,P002,G1034,Great value for the price!
+2024-09-08,0,172,0,P002,G0,
+2024-09-09,1,132,132,P002,G1035,"Great experience, would book again!"
+2024-09-10,1,163,163,P002,G1035,"Loved the location, very convenient!"
+2024-09-11,0,96,0,P002,G0,
+2024-09-12,1,88,88,P002,G1019,"Great experience, would book again!"
+2024-09-13,1,208,208,P002,G1019,"Loved the location, very convenient!"
+2024-09-14,1,184,184,P002,G1019,Host was very responsive and helpful!
+2024-09-15,1,134,134,P002,G1033,Would definitely stay here again!
+2024-09-16,0,136,0,P002,G0,
+2024-09-17,1,130,130,P002,G1036,"A perfect stay, felt like home!"
+2024-09-18,1,108,108,P002,G1037,"Clean and well-maintained, fantastic experience!"
+2024-09-19,1,85,85,P002,G1029,"Excellent amenities, everything as described!"
+2024-09-20,1,178,178,P002,G1029,"Not worth the price, expected better."
+2024-09-21,1,164,164,P002,G1029,"Super cozy, highly recommend!"
+2024-09-22,1,207,207,P002,G1013,"Loved the location, very convenient!"
+2024-09-23,1,121,121,P002,G1013,"Super cozy, highly recommend!"
+2024-09-24,1,90,90,P002,G1038,"Amazing stay, very clean and comfortable!"
+2024-09-25,1,168,168,P002,G1039,"Super cozy, highly recommend!"
+2024-09-26,1,115,115,P002,G1039,"A perfect stay, felt like home!"
+2024-09-27,1,136,136,P002,G1006,"Amazing stay, very clean and comfortable!"
+2024-09-28,1,202,202,P002,G1006,"Amazing stay, very clean and comfortable!"
+2024-09-29,1,158,158,P002,G1035,"A perfect stay, felt like home!"
+2024-09-30,1,144,144,P002,G1040,"Excellent amenities, everything as described!"
+2024-10-01,1,130,130,P002,G1041,Great value for the price!
+2024-10-02,1,118,118,P002,G1041,Great value for the price!
+2024-10-03,1,105,105,P002,G1041,"Clean and well-maintained, fantastic experience!"
+2024-10-04,1,163,163,P002,G1042,Great value for the price!
+2024-10-05,0,192,0,P002,G0,
+2024-10-06,1,173,173,P002,G1043,Host was very responsive and helpful!
+2024-10-07,1,119,119,P002,G1019,"Clean and well-maintained, fantastic experience!"
+2024-10-08,1,149,149,P002,G1019,"Clean and well-maintained, fantastic experience!"
+2024-10-09,1,88,88,P002,G1044,Great value for the price!
+2024-10-10,1,100,100,P002,G1006,Host was very responsive and helpful!
+2024-10-11,1,180,180,P002,G1045,Great value for the price!
+2024-10-12,1,207,207,P002,G1045,Host was very responsive and helpful!
+2024-10-13,1,132,132,P002,G1035,"Amazing stay, very clean and comfortable!"
+2024-10-14,1,123,123,P002,G1035,"Not perfect for the area, felt overpriced."
+2024-10-15,1,129,129,P002,G1035,Would definitely stay here again!
+2024-10-16,1,102,102,P002,G1035,"A perfect stay, felt like home!"
+2024-10-17,1,105,105,P002,G1035,"Not perfect for the area, felt overpriced."
+2024-10-18,1,178,178,P002,G1006,"Super cozy, highly recommend!"
+2024-10-19,1,147,147,P002,G1006,"Excellent amenities, everything as described!"
+2024-10-20,1,144,144,P002,G1006,"Not worth the price, expected better."
+2024-10-21,1,88,88,P002,G1006,"Excellent amenities, everything as described!"
+2024-10-22,1,166,166,P002,G1006,"Excellent amenities, everything as described!"
+2024-10-23,1,137,137,P002,G1006,"A perfect stay, felt like home!"
+2024-10-24,1,89,89,P002,G1006,"Clean and well-maintained, fantastic experience!"
+2024-10-25,1,190,190,P002,G1006,Great value for the price!
+2024-10-26,1,198,198,P002,G1006,"Super cozy, highly recommend!"
+2024-10-27,1,145,145,P002,G1028,"Amazing stay, very clean and comfortable!"
+2024-10-28,1,114,114,P002,G1046,"Clean and well-maintained, fantastic experience!"
+2024-10-29,0,165,0,P002,G0,
+2024-10-30,1,99,99,P002,G1047,"Loved the location, very convenient!"
+2024-10-31,1,93,93,P002,G1047,Host was very responsive and helpful!
+2024-11-01,1,174,174,P002,G1047,"Great experience, would book again!"
+2024-11-02,1,184,184,P002,G1047,"Excellent amenities, everything as described!"
+2024-11-03,1,182,182,P002,G1047,Could have been a better experience.
+2024-11-04,1,124,124,P002,G1047,"Excellent amenities, everything as described!"
+2024-11-05,1,86,86,P002,G1047,Host was very responsive and helpful!
+2024-11-06,1,140,140,P002,G1047,"Amazing stay, very clean and comfortable!"
+2024-11-07,1,144,144,P002,G1030,"Super cozy, highly recommend!"
+2024-11-08,1,188,188,P002,G1030,Host was very responsive and helpful!
+2024-11-09,0,182,0,P002,G0,
+2024-11-10,1,144,144,P002,G1048,Could have been a better experience.
+2024-11-11,1,79,79,P002,G1048,"Excellent amenities, everything as described!"
+2024-11-12,1,74,74,P002,G1048,The cleanliness could have been better.
+2024-11-13,1,92,92,P002,G1022,"Photos were misleading, room was smaller."
+2024-11-14,1,138,138,P002,G1022,"Amazing stay, very clean and comfortable!"
+2024-11-15,1,200,200,P002,G1003,Host was very responsive and helpful!
+2024-11-16,1,161,161,P002,G1003,"A perfect stay, felt like home!"
+2024-11-17,1,193,193,P002,G1003,"Loved the location, very convenient!"
+2024-11-18,1,147,147,P002,G1003,Great value for the price!
+2024-11-19,1,102,102,P002,G1003,Would definitely stay here again!
+2024-11-20,1,133,133,P002,G1049,"Excellent amenities, everything as described!"
+2024-11-21,0,140,0,P002,G0,
+2024-11-22,1,146,146,P002,G1042,"Great experience, would book again!"
+2024-11-23,1,157,157,P002,G1050,"Super cozy, highly recommend!"
+2024-11-24,1,141,141,P002,G1051,"Excellent amenities, everything as described!"
+2024-11-25,1,100,100,P002,G1051,Would definitely stay here again!
+2024-11-26,1,125,125,P002,G1051,"Amazing stay, very clean and comfortable!"
+2024-11-27,1,136,136,P002,G1051,"Clean and well-maintained, fantastic experience!"
+2024-11-28,1,77,77,P002,G1051,Great value for the price!
+2024-11-29,1,198,198,P002,G1051,Great value for the price!
+2024-11-30,1,178,178,P002,G1052,Would definitely stay here again!
+2024-12-01,1,180,180,P002,G1011,"Excellent amenities, everything as described!"
+2024-12-02,0,102,0,P002,G0,
+2024-12-03,1,128,128,P002,G1028,"Super cozy, highly recommend!"
+2024-12-04,0,145,0,P002,G0,
+2024-12-05,1,147,147,P002,G1053,"Not worth the price, expected better."
+2024-12-06,1,210,210,P002,G1053,"Super cozy, highly recommend!"
+2024-12-07,1,186,186,P002,G1053,Would definitely stay here again!
+2024-12-08,1,188,188,P002,G1054,"Super cozy, highly recommend!"
+2024-12-09,1,84,84,P002,G1054,"Host was slow to respond, frustrating."
+2024-12-10,1,76,76,P002,G1054,"Super cozy, highly recommend!"
+2024-12-11,0,72,0,P002,G0,
+2024-12-12,1,88,88,P002,G1003,"Clean and well-maintained, fantastic experience!"
+2024-12-13,1,133,133,P002,G1003,"Loved the location, very convenient!"
+2024-12-14,1,138,138,P002,G1003,"Clean and well-maintained, fantastic experience!"
+2024-12-15,1,164,164,P002,G1003,"Too loud at night, difficult to sleep."
+2024-12-16,1,132,132,P002,G1003,Great value for the price!
+2024-12-17,1,74,74,P002,G1003,Would definitely stay here again!
+2024-12-18,1,147,147,P002,G1003,"Photos were misleading, room was smaller."
+2024-12-19,1,114,114,P002,G1044,Great value for the price!
+2024-12-20,1,177,177,P002,G1044,"Great experience, would book again!"
+2024-12-21,1,133,133,P002,G1044,"Not as expected, had some issues."
+2024-12-22,1,181,181,P002,G1044,Would definitely stay here again!
+2024-12-23,1,114,114,P002,G1055,Would definitely stay here again!
+2024-12-24,1,89,89,P002,G1055,"A perfect stay, felt like home!"
+2024-12-25,1,155,155,P002,G1031,Would definitely stay here again!
+2024-12-26,1,127,127,P002,G1031,"Clean and well-maintained, fantastic experience!"
+2024-12-27,1,200,200,P002,G1031,"Amazing stay, very clean and comfortable!"
+2024-12-28,1,208,208,P002,G1031,"Excellent amenities, everything as described!"
+2024-12-29,1,139,139,P002,G1031,Great value for the price!
+2024-12-30,1,77,77,P002,G1056,"Clean and well-maintained, fantastic experience!"
+2024-12-31,1,132,132,P002,G1056,Would definitely stay here again!
+2025-01-01,1,147,147,P002,G1056,"Clean and well-maintained, fantastic experience!"
+2025-01-02,1,83,83,P002,G1056,"A perfect stay, felt like home!"
+2025-01-03,1,145,145,P002,G1056,"Amazing stay, very clean and comfortable!"
+2025-01-04,1,209,209,P002,G1056,"Not worth the price, expected better."
+2025-01-05,1,132,132,P002,G1056,"Super cozy, highly recommend!"
+2025-01-06,1,87,87,P002,G1056,"Clean and well-maintained, fantastic experience!"
+2025-01-07,1,127,127,P002,G1056,"Loved the location, very convenient!"
+2025-01-08,1,140,140,P002,G1056,Great value for the price!
+2025-01-09,1,89,89,P002,G1056,"Excellent amenities, everything as described!"
+2025-01-10,1,144,144,P002,G1057,"Not worth the price, expected better."
+2025-01-11,1,137,137,P002,G1057,"Amazing stay, very clean and comfortable!"
+2025-01-12,1,165,165,P002,G1058,"Loved the location, very convenient!"
+2025-01-13,1,119,119,P002,G1058,"Clean and well-maintained, fantastic experience!"
+2025-01-14,1,146,146,P002,G1058,"Photos were misleading, room was smaller."
+2025-01-15,1,110,110,P002,G1058,"Loved the location, very convenient!"
+2025-01-16,1,138,138,P002,G1014,Host was very responsive and helpful!
+2025-01-17,1,206,206,P002,G1014,"Loved the location, very convenient!"
+2025-01-18,1,130,130,P002,G1014,"Excellent amenities, everything as described!"
+2025-01-19,1,151,151,P002,G1014,"A perfect stay, felt like home!"
+2025-01-20,1,152,152,P002,G1014,"Uncomfortable stay, wouldn't recommend."
+2025-01-21,1,80,80,P002,G1014,Great value for the price!
+2025-01-22,1,157,157,P002,G1014,"Loved the location, very convenient!"
+2025-01-23,1,102,102,P002,G1059,Would definitely stay here again!
+2025-01-24,1,156,156,P002,G1059,"Loved the location, very convenient!"
+2025-01-25,1,203,203,P002,G1059,Host was very responsive and helpful!
+2025-01-26,1,151,151,P002,G1060,"Great experience, would book again!"
+2025-01-27,0,76,0,P002,G0,
+2025-01-28,1,131,131,P002,G1061,Would definitely stay here again!
+2025-01-29,1,108,108,P002,G1061,"Excellent amenities, everything as described!"
+2025-01-30,1,139,139,P002,G1061,"Excellent amenities, everything as described!"
+2025-01-31,1,194,194,P002,G1061,"Not as expected, had some issues."
+2025-02-01,0,180,0,P002,G0,
+2024-08-05,1,110,110,P003,G1062,"Super cozy, highly recommend!"
+2024-08-06,1,81,81,P003,G1045,Host was very responsive and helpful!
+2024-08-07,1,137,137,P003,G1045,"Great experience, would book again!"
+2024-08-08,1,119,119,P003,G1063,"Uncomfortable stay, wouldn't recommend."
+2024-08-09,1,175,175,P003,G1063,"Great experience, would book again!"
+2024-08-10,1,135,135,P003,G1063,"Super cozy, highly recommend!"
+2024-08-11,1,167,167,P003,G1063,Would definitely stay here again!
+2024-08-12,1,96,96,P003,G1064,"Loved the location, very convenient!"
+2024-08-13,1,98,98,P003,G1064,"Loved the location, very convenient!"
+2024-08-14,1,155,155,P003,G1064,"A perfect stay, felt like home!"
+2024-08-15,1,142,142,P003,G1065,Would definitely stay here again!
+2024-08-16,1,160,160,P003,G1035,"Not as expected, had some issues."
+2024-08-17,1,140,140,P003,G1035,Would definitely stay here again!
+2024-08-18,1,168,168,P003,G1066,"A perfect stay, felt like home!"
+2024-08-19,1,114,114,P003,G1066,"Clean and well-maintained, fantastic experience!"
+2024-08-20,1,122,122,P003,G1066,"Loved the location, very convenient!"
+2024-08-21,1,103,103,P003,G1066,"Excellent amenities, everything as described!"
+2024-08-22,1,85,85,P003,G1066,"A perfect stay, felt like home!"
+2024-08-23,1,181,181,P003,G1066,"Great experience, would book again!"
+2024-08-24,1,159,159,P003,G1067,"Not worth the price, expected better."
+2024-08-25,1,164,164,P003,G1067,"Amazing stay, very clean and comfortable!"
+2024-08-26,1,158,158,P003,G1054,Host was very responsive and helpful!
+2024-08-27,1,74,74,P003,G1054,"Not worth the price, expected better."
+2024-08-28,1,155,155,P003,G1054,Would definitely stay here again!
+2024-08-29,1,131,131,P003,G1068,"Clean and well-maintained, fantastic experience!"
+2024-08-30,1,157,157,P003,G1068,"Clean and well-maintained, fantastic experience!"
+2024-08-31,1,144,144,P003,G1068,"Amazing stay, very clean and comfortable!"
+2024-09-01,1,172,172,P003,G1068,"Excellent amenities, everything as described!"
+2024-09-02,1,133,133,P003,G1068,"Loved the location, very convenient!"
+2024-09-03,1,161,161,P003,G1068,Great value for the price!
+2024-09-04,1,144,144,P003,G1068,"Excellent amenities, everything as described!"
+2024-09-05,1,101,101,P003,G1068,Would definitely stay here again!
+2024-09-06,1,140,140,P003,G1068,"Amenities were lacking, expected more."
+2024-09-07,1,146,146,P003,G1068,"Clean and well-maintained, fantastic experience!"
+2024-09-08,1,130,130,P003,G1016,"Uncomfortable stay, wouldn't recommend."
+2024-09-09,1,146,146,P003,G1016,"Not perfect for the area, felt overpriced."
+2024-09-10,1,141,141,P003,G1044,"Photos were misleading, room was smaller."
+2024-09-11,1,131,131,P003,G1044,"Excellent amenities, everything as described!"
+2024-09-12,1,107,107,P003,G1044,"Excellent amenities, everything as described!"
+2024-09-13,1,180,180,P003,G1044,"Great experience, would book again!"
+2024-09-14,1,168,168,P003,G1044,"Super cozy, highly recommend!"
+2024-09-15,1,133,133,P003,G1044,"Clean and well-maintained, fantastic experience!"
+2024-09-16,1,150,150,P003,G1044,"Super cozy, highly recommend!"
+2024-09-17,1,115,115,P003,G1044,"Great experience, would book again!"
+2024-09-18,1,144,144,P003,G1044,"Great experience, would book again!"
+2024-09-19,1,164,164,P003,G1020,"Clean and well-maintained, fantastic experience!"
+2024-09-20,1,194,194,P003,G1020,Great value for the price!
+2024-09-21,1,131,131,P003,G1020,"Clean and well-maintained, fantastic experience!"
+2024-09-22,1,180,180,P003,G1069,Great value for the price!
+2024-09-23,1,105,105,P003,G1070,Great value for the price!
+2024-09-24,1,139,139,P003,G1004,Great value for the price!
+2024-09-25,1,141,141,P003,G1071,Great value for the price!
+2024-09-26,1,164,164,P003,G1071,"A perfect stay, felt like home!"
+2024-09-27,1,169,169,P003,G1071,"Super cozy, highly recommend!"
+2024-09-28,1,149,149,P003,G1071,"A perfect stay, felt like home!"
+2024-09-29,1,153,153,P003,G1026,"Excellent amenities, everything as described!"
+2024-09-30,1,147,147,P003,G1058,"Excellent amenities, everything as described!"
+2024-10-01,1,93,93,P003,G1058,Would definitely stay here again!
+2024-10-02,1,169,169,P003,G1007,"Excellent amenities, everything as described!"
+2024-10-03,0,95,0,P003,G0,
+2024-10-04,1,153,153,P003,G1072,"Super cozy, highly recommend!"
+2024-10-05,1,181,181,P003,G1072,Would definitely stay here again!
+2024-10-06,1,158,158,P003,G1072,"Super cozy, highly recommend!"
+2024-10-07,0,145,0,P003,G0,
+2024-10-08,0,74,0,P003,G0,
+2024-10-09,1,96,96,P003,G1050,Would definitely stay here again!
+2024-10-10,1,117,117,P003,G1050,"Excellent amenities, everything as described!"
+2024-10-11,1,146,146,P003,G1050,"Super cozy, highly recommend!"
+2024-10-12,1,184,184,P003,G1073,"Excellent amenities, everything as described!"
+2024-10-13,1,162,162,P003,G1073,"Great experience, would book again!"
+2024-10-14,1,97,97,P003,G1073,Host was very responsive and helpful!
+2024-10-15,1,85,85,P003,G1074,"Amenities were lacking, expected more."
+2024-10-16,1,148,148,P003,G1075,"Excellent amenities, everything as described!"
+2024-10-17,1,79,79,P003,G1037,Would definitely stay here again!
+2024-10-18,1,146,146,P003,G1076,"A perfect stay, felt like home!"
+2024-10-19,1,143,143,P003,G1076,"Loved the location, very convenient!"
+2024-10-20,0,176,0,P003,G0,
+2024-10-21,1,105,105,P003,G1008,"Great experience, would book again!"
+2024-10-22,1,89,89,P003,G1008,"Super cozy, highly recommend!"
+2024-10-23,1,72,72,P003,G1008,Great value for the price!
+2024-10-24,1,96,96,P003,G1077,Great value for the price!
+2024-10-25,1,144,144,P003,G1077,The cleanliness could have been better.
+2024-10-26,1,195,195,P003,G1024,"A perfect stay, felt like home!"
+2024-10-27,1,168,168,P003,G1078,"Excellent amenities, everything as described!"
+2024-10-28,1,126,126,P003,G1079,"Super cozy, highly recommend!"
+2024-10-29,1,99,99,P003,G1079,"A perfect stay, felt like home!"
+2024-10-30,1,92,92,P003,G1079,Great value for the price!
+2024-10-31,0,120,0,P003,G0,
+2024-11-01,1,151,151,P003,G1080,"Clean and well-maintained, fantastic experience!"
+2024-11-02,1,195,195,P003,G1080,Great value for the price!
+2024-11-03,1,159,159,P003,G1052,"A perfect stay, felt like home!"
+2024-11-04,0,109,0,P003,G0,
+2024-11-05,0,121,0,P003,G0,
+2024-11-06,1,78,78,P003,G1049,"Loved the location, very convenient!"
+2024-11-07,0,77,0,P003,G0,
+2024-11-08,1,153,153,P003,G1081,"Great experience, would book again!"
+2024-11-09,1,164,164,P003,G1025,Great value for the price!
+2024-11-10,1,169,169,P003,G1025,Would definitely stay here again!
+2024-11-11,1,170,170,P003,G1025,"Great experience, would book again!"
+2024-11-12,1,139,139,P003,G1025,"Loved the location, very convenient!"
+2024-11-13,1,128,128,P003,G1025,Great value for the price!
+2024-11-14,1,97,97,P003,G1082,"Excellent amenities, everything as described!"
+2024-11-15,1,131,131,P003,G1083,"A perfect stay, felt like home!"
+2024-11-16,1,186,186,P003,G1084,"Photos were misleading, room was smaller."
+2024-11-17,1,142,142,P003,G1084,"Loved the location, very convenient!"
+2024-11-18,1,98,98,P003,G1084,Host was very responsive and helpful!
+2024-11-19,0,140,0,P003,G0,
+2024-11-20,1,141,141,P003,G1020,"Excellent amenities, everything as described!"
+2024-11-21,1,120,120,P003,G1020,Host was very responsive and helpful!
+2024-11-22,1,156,156,P003,G1020,Would definitely stay here again!
+2024-11-23,1,208,208,P003,G1085,"Super cozy, highly recommend!"
+2024-11-24,1,204,204,P003,G1085,"Loved the location, very convenient!"
+2024-11-25,1,117,117,P003,G1086,Could have been a better experience.
+2024-11-26,1,156,156,P003,G1057,"Excellent amenities, everything as described!"
+2024-11-27,1,132,132,P003,G1057,"Super cozy, highly recommend!"
+2024-11-28,0,78,0,P003,G0,
+2024-11-29,1,151,151,P003,G1087,"Super cozy, highly recommend!"
+2024-11-30,1,188,188,P003,G1087,"Great experience, would book again!"
+2024-12-01,0,188,0,P003,G0,
+2024-12-02,1,133,133,P003,G1088,"Great experience, would book again!"
+2024-12-03,1,150,150,P003,G1085,"Clean and well-maintained, fantastic experience!"
+2024-12-04,0,100,0,P003,G0,
+2024-12-05,1,153,153,P003,G1089,"Super cozy, highly recommend!"
+2024-12-06,1,136,136,P003,G1005,"Great experience, would book again!"
+2024-12-07,0,177,0,P003,G0,
+2024-12-08,1,165,165,P003,G1090,"Great experience, would book again!"
+2024-12-09,1,75,75,P003,G1090,Would definitely stay here again!
+2024-12-10,1,106,106,P003,G1091,Great value for the price!
+2024-12-11,1,95,95,P003,G1092,"A perfect stay, felt like home!"
+2024-12-12,1,75,75,P003,G1060,Great value for the price!
+2024-12-13,1,144,144,P003,G1060,"Clean and well-maintained, fantastic experience!"
+2024-12-14,1,188,188,P003,G1060,"Clean and well-maintained, fantastic experience!"
+2024-12-15,1,170,170,P003,G1060,"Amazing stay, very clean and comfortable!"
+2024-12-16,1,95,95,P003,G1060,Host was very responsive and helpful!
+2024-12-17,1,71,71,P003,G1093,"Great experience, would book again!"
+2024-12-18,0,108,0,P003,G0,
+2024-12-19,1,165,165,P003,G1094,"Loved the location, very convenient!"
+2024-12-20,0,198,0,P003,G0,
+2024-12-21,1,199,199,P003,G1095,"Clean and well-maintained, fantastic experience!"
+2024-12-22,1,134,134,P003,G1095,"A perfect stay, felt like home!"
+2024-12-23,1,83,83,P003,G1002,Host was very responsive and helpful!
+2024-12-24,1,152,152,P003,G1002,Great value for the price!
+2024-12-25,1,145,145,P003,G1002,"Amazing stay, very clean and comfortable!"
+2024-12-26,1,113,113,P003,G1096,"Clean and well-maintained, fantastic experience!"
+2024-12-27,1,168,168,P003,G1096,"Clean and well-maintained, fantastic experience!"
+2024-12-28,1,174,174,P003,G1096,"Not perfect for the area, felt overpriced."
+2024-12-29,1,192,192,P003,G1096,"Great experience, would book again!"
+2024-12-30,0,140,0,P003,G0,
+2024-12-31,0,119,0,P003,G0,
+2025-01-01,1,80,80,P003,G1065,"Photos were misleading, room was smaller."
+2025-01-02,1,158,158,P003,G1018,"Not as expected, had some issues."
+2025-01-03,0,183,0,P003,G0,
+2025-01-04,1,199,199,P003,G1030,The cleanliness could have been better.
+2025-01-05,1,179,179,P003,G1097,Host was very responsive and helpful!
+2025-01-06,1,139,139,P003,G1097,"A perfect stay, felt like home!"
+2025-01-07,1,105,105,P003,G1097,"Amazing stay, very clean and comfortable!"
+2025-01-08,1,88,88,P003,G1079,"Clean and well-maintained, fantastic experience!"
+2025-01-09,1,74,74,P003,G1079,"A perfect stay, felt like home!"
+2025-01-10,1,162,162,P003,G1079,"Loved the location, very convenient!"
+2025-01-11,1,205,205,P003,G1003,"Photos were misleading, room was smaller."
+2025-01-12,1,147,147,P003,G1003,"A perfect stay, felt like home!"
+2025-01-13,1,133,133,P003,G1003,Host was very responsive and helpful!
+2025-01-14,1,94,94,P003,G1098,Would definitely stay here again!
+2025-01-15,1,152,152,P003,G1098,"Super cozy, highly recommend!"
+2025-01-16,1,74,74,P003,G1098,"Loved the location, very convenient!"
+2025-01-17,1,176,176,P003,G1098,Host was very responsive and helpful!
+2025-01-18,1,176,176,P003,G1098,"Loved the location, very convenient!"
+2025-01-19,1,207,207,P003,G1098,Would definitely stay here again!
+2025-01-20,1,160,160,P003,G1098,"Excellent amenities, everything as described!"
+2025-01-21,1,132,132,P003,G1098,"Super cozy, highly recommend!"
+2025-01-22,1,97,97,P003,G1099,"A perfect stay, felt like home!"
+2025-01-23,1,167,167,P003,G1086,Host was very responsive and helpful!
+2025-01-24,1,133,133,P003,G1086,Would definitely stay here again!
+2025-01-25,0,146,0,P003,G0,
+2025-01-26,1,204,204,P003,G1088,"Amazing stay, very clean and comfortable!"
+2025-01-27,0,84,0,P003,G0,
+2025-01-28,1,75,75,P003,G1014,Host was very responsive and helpful!
+2025-01-29,0,122,0,P003,G0,
+2025-01-30,0,155,0,P003,G0,
+2025-01-31,1,155,155,P003,G1023,Great value for the price!
+2025-02-01,1,168,168,P003,G1023,Would definitely stay here again!
+2024-08-05,1,80,80,P004,G1100,"Amenities were lacking, expected more."
+2024-08-06,1,127,127,P004,G1100,Great value for the price!
+2024-08-07,1,80,80,P004,G1100,"Excellent amenities, everything as described!"
+2024-08-08,1,164,164,P004,G1055,"Excellent amenities, everything as described!"
+2024-08-09,1,151,151,P004,G1008,"A perfect stay, felt like home!"
+2024-08-10,1,193,193,P004,G1008,"Excellent amenities, everything as described!"
+2024-08-11,1,192,192,P004,G1101,"Clean and well-maintained, fantastic experience!"
+2024-08-12,1,126,126,P004,G1101,Great value for the price!
+2024-08-13,1,88,88,P004,G1101,"Amazing stay, very clean and comfortable!"
+2024-08-14,1,131,131,P004,G1101,"A perfect stay, felt like home!"
+2024-08-15,1,71,71,P004,G1102,"Amazing stay, very clean and comfortable!"
+2024-08-16,1,199,199,P004,G1103,"Amazing stay, very clean and comfortable!"
+2024-08-17,1,195,195,P004,G1103,Great value for the price!
+2024-08-18,1,169,169,P004,G1103,"Great experience, would book again!"
+2024-08-19,1,93,93,P004,G1103,"Excellent amenities, everything as described!"
+2024-08-20,1,135,135,P004,G1103,"Amazing stay, very clean and comfortable!"
+2024-08-21,1,123,123,P004,G1103,"Clean and well-maintained, fantastic experience!"
+2024-08-22,1,147,147,P004,G1103,"Super cozy, highly recommend!"
+2024-08-23,1,198,198,P004,G1103,"Loved the location, very convenient!"
+2024-08-24,1,136,136,P004,G1103,"Loved the location, very convenient!"
+2024-08-25,1,172,172,P004,G1103,"A perfect stay, felt like home!"
+2024-08-26,1,161,161,P004,G1103,"Clean and well-maintained, fantastic experience!"
+2024-08-27,1,130,130,P004,G1103,The cleanliness could have been better.
+2024-08-28,0,122,0,P004,G0,
+2024-08-29,1,156,156,P004,G1104,Host was very responsive and helpful!
+2024-08-30,1,162,162,P004,G1105,"Excellent amenities, everything as described!"
+2024-08-31,1,160,160,P004,G1106,Great value for the price!
+2024-09-01,1,131,131,P004,G1107,Host was very responsive and helpful!
+2024-09-02,1,110,110,P004,G1107,"Excellent amenities, everything as described!"
+2024-09-03,1,94,94,P004,G1107,"Excellent amenities, everything as described!"
+2024-09-04,1,136,136,P004,G1108,"Loved the location, very convenient!"
+2024-09-05,1,169,169,P004,G1108,"Amazing stay, very clean and comfortable!"
+2024-09-06,1,208,208,P004,G1108,"Super cozy, highly recommend!"
+2024-09-07,1,181,181,P004,G1109,"Clean and well-maintained, fantastic experience!"
+2024-09-08,1,197,197,P004,G1109,"A perfect stay, felt like home!"
+2024-09-09,1,75,75,P004,G1109,"Clean and well-maintained, fantastic experience!"
+2024-09-10,1,86,86,P004,G1109,"Super cozy, highly recommend!"
+2024-09-11,1,78,78,P004,G1110,Would definitely stay here again!
+2024-09-12,0,150,0,P004,G0,
+2024-09-13,1,206,206,P004,G1023,Great value for the price!
+2024-09-14,1,136,136,P004,G1023,"A perfect stay, felt like home!"
+2024-09-15,1,142,142,P004,G1023,Great value for the price!
+2024-09-16,1,93,93,P004,G1023,Great value for the price!
+2024-09-17,1,168,168,P004,G1111,Great value for the price!
+2024-09-18,1,156,156,P004,G1111,"Great experience, would book again!"
+2024-09-19,1,123,123,P004,G1111,Host was very responsive and helpful!
+2024-09-20,1,158,158,P004,G1111,"Clean and well-maintained, fantastic experience!"
+2024-09-21,1,185,185,P004,G1111,"A perfect stay, felt like home!"
+2024-09-22,1,132,132,P004,G1111,Great value for the price!
+2024-09-23,1,155,155,P004,G1112,"Clean and well-maintained, fantastic experience!"
+2024-09-24,1,94,94,P004,G1112,"Great experience, would book again!"
+2024-09-25,1,160,160,P004,G1112,"Amazing stay, very clean and comfortable!"
+2024-09-26,1,154,154,P004,G1095,"Loved the location, very convenient!"
+2024-09-27,1,186,186,P004,G1095,"Amazing stay, very clean and comfortable!"
+2024-09-28,0,147,0,P004,G0,
+2024-09-29,0,165,0,P004,G0,
+2024-09-30,1,121,121,P004,G1113,Could have been a better experience.
+2024-10-01,1,93,93,P004,G1113,Would definitely stay here again!
+2024-10-02,1,118,118,P004,G1113,Host was very responsive and helpful!
+2024-10-03,1,148,148,P004,G1113,"Excellent amenities, everything as described!"
+2024-10-04,1,194,194,P004,G1068,Would definitely stay here again!
+2024-10-05,1,171,171,P004,G1068,Host was very responsive and helpful!
+2024-10-06,1,205,205,P004,G1026,Host was very responsive and helpful!
+2024-10-07,1,102,102,P004,G1026,Great value for the price!
+2024-10-08,1,139,139,P004,G1114,"Amazing stay, very clean and comfortable!"
+2024-10-09,1,162,162,P004,G1114,"Loved the location, very convenient!"
+2024-10-10,1,136,136,P004,G1114,"Clean and well-maintained, fantastic experience!"
+2024-10-11,1,135,135,P004,G1114,"Great experience, would book again!"
+2024-10-12,1,130,130,P004,G1107,"Loved the location, very convenient!"
+2024-10-13,1,184,184,P004,G1107,Host was very responsive and helpful!
+2024-10-14,1,79,79,P004,G1107,"Amazing stay, very clean and comfortable!"
+2024-10-15,1,135,135,P004,G1107,"Excellent amenities, everything as described!"
+2024-10-16,1,167,167,P004,G1064,Could have been a better experience.
+2024-10-17,1,164,164,P004,G1064,Host was very responsive and helpful!
+2024-10-18,1,173,173,P004,G1064,"A perfect stay, felt like home!"
+2024-10-19,1,189,189,P004,G1064,"Not as expected, had some issues."
+2024-10-20,1,154,154,P004,G1064,"Amazing stay, very clean and comfortable!"
+2024-10-21,1,109,109,P004,G1035,"Excellent amenities, everything as described!"
+2024-10-22,1,91,91,P004,G1115,"Super cozy, highly recommend!"
+2024-10-23,1,73,73,P004,G1066,"Amazing stay, very clean and comfortable!"
+2024-10-24,1,93,93,P004,G1066,"Super cozy, highly recommend!"
+2024-10-25,1,178,178,P004,G1034,"Great experience, would book again!"
+2024-10-26,1,165,165,P004,G1116,"Clean and well-maintained, fantastic experience!"
+2024-10-27,0,148,0,P004,G0,
+2024-10-28,1,77,77,P004,G1098,"Uncomfortable stay, wouldn't recommend."
+2024-10-29,1,110,110,P004,G1098,The cleanliness could have been better.
+2024-10-30,1,133,133,P004,G1117,"Great experience, would book again!"
+2024-10-31,1,148,148,P004,G1117,"Loved the location, very convenient!"
+2024-11-01,1,189,189,P004,G1117,Host was very responsive and helpful!
+2024-11-02,1,189,189,P004,G1117,"Amenities were lacking, expected more."
+2024-11-03,0,202,0,P004,G0,
+2024-11-04,1,70,70,P004,G1065,Great value for the price!
+2024-11-05,1,149,149,P004,G1065,"Amazing stay, very clean and comfortable!"
+2024-11-06,1,156,156,P004,G1065,"Loved the location, very convenient!"
+2024-11-07,1,139,139,P004,G1029,"A perfect stay, felt like home!"
+2024-11-08,1,163,163,P004,G1029,"Super cozy, highly recommend!"
+2024-11-09,1,181,181,P004,G1029,"Amazing stay, very clean and comfortable!"
+2024-11-10,1,131,131,P004,G1118,Host was very responsive and helpful!
+2024-11-11,0,157,0,P004,G0,
+2024-11-12,1,119,119,P004,G1066,"Excellent amenities, everything as described!"
+2024-11-13,1,140,140,P004,G1119,"Clean and well-maintained, fantastic experience!"
+2024-11-14,1,167,167,P004,G1119,"Amazing stay, very clean and comfortable!"
+2024-11-15,0,184,0,P004,G0,
+2024-11-16,1,130,130,P004,G1117,"Photos were misleading, room was smaller."
+2024-11-17,1,163,163,P004,G1117,Would definitely stay here again!
+2024-11-18,1,127,127,P004,G1117,"Excellent amenities, everything as described!"
+2024-11-19,1,128,128,P004,G1117,Host was very responsive and helpful!
+2024-11-20,1,88,88,P004,G1117,"Excellent amenities, everything as described!"
+2024-11-21,1,144,144,P004,G1117,Would definitely stay here again!
+2024-11-22,1,162,162,P004,G1117,"Too loud at night, difficult to sleep."
+2024-11-23,1,144,144,P004,G1117,"A perfect stay, felt like home!"
+2024-11-24,1,210,210,P004,G1117,"Super cozy, highly recommend!"
+2024-11-25,1,91,91,P004,G1117,Great value for the price!
+2024-11-26,0,72,0,P004,G0,
+2024-11-27,1,150,150,P004,G1004,"Host was slow to respond, frustrating."
+2024-11-28,0,163,0,P004,G0,
+2024-11-29,1,159,159,P004,G1070,"Super cozy, highly recommend!"
+2024-11-30,1,162,162,P004,G1070,Great value for the price!
+2024-12-01,1,155,155,P004,G1070,"Loved the location, very convenient!"
+2024-12-02,1,129,129,P004,G1070,"A perfect stay, felt like home!"
+2024-12-03,1,83,83,P004,G1070,"Super cozy, highly recommend!"
+2024-12-04,1,167,167,P004,G1070,Would definitely stay here again!
+2024-12-05,1,97,97,P004,G1118,"Loved the location, very convenient!"
+2024-12-06,1,142,142,P004,G1118,"Clean and well-maintained, fantastic experience!"
+2024-12-07,0,157,0,P004,G0,
+2024-12-08,1,131,131,P004,G1120,"Super cozy, highly recommend!"
+2024-12-09,1,137,137,P004,G1078,"Great experience, would book again!"
+2024-12-10,1,140,140,P004,G1078,"Super cozy, highly recommend!"
+2024-12-11,1,136,136,P004,G1078,Host was very responsive and helpful!
+2024-12-12,1,77,77,P004,G1121,"Loved the location, very convenient!"
+2024-12-13,1,175,175,P004,G1056,"Not worth the price, expected better."
+2024-12-14,1,176,176,P004,G1056,Host was very responsive and helpful!
+2024-12-15,1,203,203,P004,G1056,"Super cozy, highly recommend!"
+2024-12-16,1,82,82,P004,G1056,"Loved the location, very convenient!"
+2024-12-17,1,149,149,P004,G1122,"Loved the location, very convenient!"
+2024-12-18,1,133,133,P004,G1122,Would definitely stay here again!
+2024-12-19,1,157,157,P004,G1122,"Great experience, would book again!"
+2024-12-20,1,209,209,P004,G1068,Would definitely stay here again!
+2024-12-21,1,209,209,P004,G1068,"Loved the location, very convenient!"
+2024-12-22,1,191,191,P004,G1105,Great value for the price!
+2024-12-23,1,162,162,P004,G1105,Great value for the price!
+2024-12-24,1,97,97,P004,G1105,"Amazing stay, very clean and comfortable!"
+2024-12-25,1,145,145,P004,G1105,"Super cozy, highly recommend!"
+2024-12-26,1,126,126,P004,G1105,Host was very responsive and helpful!
+2024-12-27,1,186,186,P004,G1105,"Excellent amenities, everything as described!"
+2024-12-28,1,156,156,P004,G1105,"Excellent amenities, everything as described!"
+2024-12-29,1,161,161,P004,G1105,Host was very responsive and helpful!
+2024-12-30,1,125,125,P004,G1105,"Super cozy, highly recommend!"
+2024-12-31,1,109,109,P004,G1105,"Clean and well-maintained, fantastic experience!"
+2025-01-01,0,103,0,P004,G0,
+2025-01-02,1,129,129,P004,G1046,"Excellent amenities, everything as described!"
+2025-01-03,1,185,185,P004,G1046,"Loved the location, very convenient!"
+2025-01-04,1,205,205,P004,G1046,"Super cozy, highly recommend!"
+2025-01-05,1,131,131,P004,G1046,Would definitely stay here again!
+2025-01-06,1,119,119,P004,G1046,"Excellent amenities, everything as described!"
+2025-01-07,1,113,113,P004,G1046,Great value for the price!
+2025-01-08,1,99,99,P004,G1046,"A perfect stay, felt like home!"
+2025-01-09,1,170,170,P004,G1046,Host was very responsive and helpful!
+2025-01-10,1,209,209,P004,G1046,Great value for the price!
+2025-01-11,1,137,137,P004,G1019,"Clean and well-maintained, fantastic experience!"
+2025-01-12,1,146,146,P004,G1019,"A perfect stay, felt like home!"
+2025-01-13,1,154,154,P004,G1032,"A perfect stay, felt like home!"
+2025-01-14,1,159,159,P004,G1053,"A perfect stay, felt like home!"
+2025-01-15,1,121,121,P004,G1053,"Loved the location, very convenient!"
+2025-01-16,1,100,100,P004,G1053,"Great experience, would book again!"
+2025-01-17,1,145,145,P004,G1050,"Loved the location, very convenient!"
+2025-01-18,1,130,130,P004,G1050,"Great experience, would book again!"
+2025-01-19,1,183,183,P004,G1123,"Super cozy, highly recommend!"
+2025-01-20,1,137,137,P004,G1028,"Loved the location, very convenient!"
+2025-01-21,1,151,151,P004,G1124,"A perfect stay, felt like home!"
+2025-01-22,1,129,129,P004,G1124,"Super cozy, highly recommend!"
+2025-01-23,1,140,140,P004,G1069,Great value for the price!
+2025-01-24,1,186,186,P004,G1125,"A perfect stay, felt like home!"
+2025-01-25,1,155,155,P004,G1125,"Super cozy, highly recommend!"
+2025-01-26,1,186,186,P004,G1125,Would definitely stay here again!
+2025-01-27,1,98,98,P004,G1125,Great value for the price!
+2025-01-28,1,147,147,P004,G1125,"Loved the location, very convenient!"
+2025-01-29,1,136,136,P004,G1125,"Uncomfortable stay, wouldn't recommend."
+2025-01-30,1,88,88,P004,G1125,Would definitely stay here again!
+2025-01-31,1,200,200,P004,G1125,Would definitely stay here again!
+2025-02-01,1,177,177,P004,G1046,"Excellent amenities, everything as described!"
+2024-08-05,1,89,89,P005,G1126,Great value for the price!
+2024-08-06,1,102,102,P005,G1127,"Amazing stay, very clean and comfortable!"
+2024-08-07,1,98,98,P005,G1113,"Host was slow to respond, frustrating."
+2024-08-08,1,96,96,P005,G1113,"Amazing stay, very clean and comfortable!"
+2024-08-09,1,199,199,P005,G1128,Host was very responsive and helpful!
+2024-08-10,1,163,163,P005,G1128,"Amazing stay, very clean and comfortable!"
+2024-08-11,1,170,170,P005,G1128,"Great experience, would book again!"
+2024-08-12,1,123,123,P005,G1128,Host was very responsive and helpful!
+2024-08-13,1,136,136,P005,G1128,"A perfect stay, felt like home!"
+2024-08-14,1,94,94,P005,G1013,"Great experience, would book again!"
+2024-08-15,1,163,163,P005,G1013,Would definitely stay here again!
+2024-08-16,1,172,172,P005,G1013,Great value for the price!
+2024-08-17,1,180,180,P005,G1013,"Loved the location, very convenient!"
+2024-08-18,1,144,144,P005,G1129,"Great experience, would book again!"
+2024-08-19,1,141,141,P005,G1130,"Loved the location, very convenient!"
+2024-08-20,1,167,167,P005,G1106,Great value for the price!
+2024-08-21,1,124,124,P005,G1106,"Amazing stay, very clean and comfortable!"
+2024-08-22,1,85,85,P005,G1106,"Super cozy, highly recommend!"
+2024-08-23,1,171,171,P005,G1106,"Amazing stay, very clean and comfortable!"
+2024-08-24,1,210,210,P005,G1106,Great value for the price!
+2024-08-25,1,180,180,P005,G1021,"Clean and well-maintained, fantastic experience!"
+2024-08-26,1,162,162,P005,G1021,"Loved the location, very convenient!"
+2024-08-27,1,126,126,P005,G1131,"Clean and well-maintained, fantastic experience!"
+2024-08-28,1,154,154,P005,G1131,"Great experience, would book again!"
+2024-08-29,0,74,0,P005,G0,
+2024-08-30,1,185,185,P005,G1079,"Super cozy, highly recommend!"
+2024-08-31,1,149,149,P005,G1079,"Clean and well-maintained, fantastic experience!"
+2024-09-01,1,207,207,P005,G1079,"Loved the location, very convenient!"
+2024-09-02,1,87,87,P005,G1079,"Loved the location, very convenient!"
+2024-09-03,1,151,151,P005,G1079,The cleanliness could have been better.
+2024-09-04,1,92,92,P005,G1079,"Excellent amenities, everything as described!"
+2024-09-05,1,135,135,P005,G1132,Great value for the price!
+2024-09-06,1,148,148,P005,G1132,"Photos were misleading, room was smaller."
+2024-09-07,1,206,206,P005,G1132,"Loved the location, very convenient!"
+2024-09-08,1,145,145,P005,G1132,"Photos were misleading, room was smaller."
+2024-09-09,0,149,0,P005,G0,
+2024-09-10,1,72,72,P005,G1133,"Not worth the price, expected better."
+2024-09-11,0,146,0,P005,G0,
+2024-09-12,1,126,126,P005,G1134,"Amazing stay, very clean and comfortable!"
+2024-09-13,1,170,170,P005,G1134,"Clean and well-maintained, fantastic experience!"
+2024-09-14,1,164,164,P005,G1134,"Great experience, would book again!"
+2024-09-15,1,179,179,P005,G1003,Great value for the price!
+2024-09-16,1,74,74,P005,G1003,"Excellent amenities, everything as described!"
+2024-09-17,1,95,95,P005,G1135,Would definitely stay here again!
+2024-09-18,1,170,170,P005,G1136,Would definitely stay here again!
+2024-09-19,0,100,0,P005,G0,
+2024-09-20,0,173,0,P005,G0,
+2024-09-21,1,151,151,P005,G1007,"Great experience, would book again!"
+2024-09-22,1,182,182,P005,G1137,"A perfect stay, felt like home!"
+2024-09-23,1,133,133,P005,G1137,"Not worth the price, expected better."
+2024-09-24,1,124,124,P005,G1137,Would definitely stay here again!
+2024-09-25,1,160,160,P005,G1138,"Excellent amenities, everything as described!"
+2024-09-26,1,168,168,P005,G1138,"Amenities were lacking, expected more."
+2024-09-27,1,182,182,P005,G1138,"Host was slow to respond, frustrating."
+2024-09-28,1,202,202,P005,G1139,"A perfect stay, felt like home!"
+2024-09-29,1,152,152,P005,G1140,Great value for the price!
+2024-09-30,1,138,138,P005,G1140,Would definitely stay here again!
+2024-10-01,1,145,145,P005,G1140,"Super cozy, highly recommend!"
+2024-10-02,1,124,124,P005,G1141,"Loved the location, very convenient!"
+2024-10-03,1,121,121,P005,G1141,"Loved the location, very convenient!"
+2024-10-04,1,206,206,P005,G1141,"Loved the location, very convenient!"
+2024-10-05,1,133,133,P005,G1141,"Super cozy, highly recommend!"
+2024-10-06,1,145,145,P005,G1141,Host was very responsive and helpful!
+2024-10-07,1,117,117,P005,G1079,Would definitely stay here again!
+2024-10-08,1,84,84,P005,G1079,"Loved the location, very convenient!"
+2024-10-09,1,109,109,P005,G1113,"Not perfect for the area, felt overpriced."
+2024-10-10,1,83,83,P005,G1113,"Amazing stay, very clean and comfortable!"
+2024-10-11,1,196,196,P005,G1113,"Loved the location, very convenient!"
+2024-10-12,1,190,190,P005,G1113,"Not as expected, had some issues."
+2024-10-13,1,187,187,P005,G1142,Great value for the price!
+2024-10-14,1,165,165,P005,G1142,"A perfect stay, felt like home!"
+2024-10-15,1,151,151,P005,G1142,Host was very responsive and helpful!
+2024-10-16,1,76,76,P005,G1142,Great value for the price!
+2024-10-17,0,114,0,P005,G0,
+2024-10-18,1,133,133,P005,G1143,"A perfect stay, felt like home!"
+2024-10-19,0,177,0,P005,G0,
+2024-10-20,1,182,182,P005,G1144,"Clean and well-maintained, fantastic experience!"
+2024-10-21,1,157,157,P005,G1145,"Super cozy, highly recommend!"
+2024-10-22,1,116,116,P005,G1145,"Too loud at night, difficult to sleep."
+2024-10-23,1,81,81,P005,G1145,"Amazing stay, very clean and comfortable!"
+2024-10-24,1,122,122,P005,G1146,Would definitely stay here again!
+2024-10-25,1,203,203,P005,G1146,Host was very responsive and helpful!
+2024-10-26,1,160,160,P005,G1146,"Amazing stay, very clean and comfortable!"
+2024-10-27,0,174,0,P005,G0,
+2024-10-28,1,97,97,P005,G1055,"Great experience, would book again!"
+2024-10-29,1,92,92,P005,G1055,"Excellent amenities, everything as described!"
+2024-10-30,1,141,141,P005,G1055,Great value for the price!
+2024-10-31,1,90,90,P005,G1055,Would definitely stay here again!
+2024-11-01,1,164,164,P005,G1055,"Clean and well-maintained, fantastic experience!"
+2024-11-02,1,158,158,P005,G1055,"Clean and well-maintained, fantastic experience!"
+2024-11-03,1,185,185,P005,G1055,"Loved the location, very convenient!"
+2024-11-04,1,110,110,P005,G1055,"A perfect stay, felt like home!"
+2024-11-05,1,131,131,P005,G1147,"Loved the location, very convenient!"
+2024-11-06,1,132,132,P005,G1148,"A perfect stay, felt like home!"
+2024-11-07,1,114,114,P005,G1132,"A perfect stay, felt like home!"
+2024-11-08,1,148,148,P005,G1132,Great value for the price!
+2024-11-09,1,208,208,P005,G1132,"A perfect stay, felt like home!"
+2024-11-10,1,157,157,P005,G1149,"A perfect stay, felt like home!"
+2024-11-11,1,150,150,P005,G1149,"Loved the location, very convenient!"
+2024-11-12,1,113,113,P005,G1149,Would definitely stay here again!
+2024-11-13,1,118,118,P005,G1149,"A perfect stay, felt like home!"
+2024-11-14,1,73,73,P005,G1149,"Great experience, would book again!"
+2024-11-15,1,185,185,P005,G1149,"A perfect stay, felt like home!"
+2024-11-16,1,186,186,P005,G1149,"A perfect stay, felt like home!"
+2024-11-17,1,183,183,P005,G1112,Would definitely stay here again!
+2024-11-18,1,83,83,P005,G1112,"A perfect stay, felt like home!"
+2024-11-19,1,136,136,P005,G1112,Would definitely stay here again!
+2024-11-20,1,135,135,P005,G1022,"A perfect stay, felt like home!"
+2024-11-21,1,102,102,P005,G1022,"Super cozy, highly recommend!"
+2024-11-22,0,201,0,P005,G0,
+2024-11-23,1,150,150,P005,G1150,"Loved the location, very convenient!"
+2024-11-24,0,147,0,P005,G0,
+2024-11-25,1,146,146,P005,G1151,"Amazing stay, very clean and comfortable!"
+2024-11-26,1,146,146,P005,G1151,Would definitely stay here again!
+2024-11-27,1,140,140,P005,G1151,"A perfect stay, felt like home!"
+2024-11-28,0,110,0,P005,G0,
+2024-11-29,1,206,206,P005,G1130,"Great experience, would book again!"
+2024-11-30,1,168,168,P005,G1130,"Not worth the price, expected better."
+2024-12-01,1,173,173,P005,G1152,Host was very responsive and helpful!
+2024-12-02,1,158,158,P005,G1152,"Super cozy, highly recommend!"
+2024-12-03,1,108,108,P005,G1152,"Not perfect for the area, felt overpriced."
+2024-12-04,1,153,153,P005,G1152,"Clean and well-maintained, fantastic experience!"
+2024-12-05,1,86,86,P005,G1152,Would definitely stay here again!
+2024-12-06,1,147,147,P005,G1153,Host was very responsive and helpful!
+2024-12-07,0,169,0,P005,G0,
+2024-12-08,1,164,164,P005,G1061,Great value for the price!
+2024-12-09,1,160,160,P005,G1061,"Amazing stay, very clean and comfortable!"
+2024-12-10,1,88,88,P005,G1061,"Super cozy, highly recommend!"
+2024-12-11,1,155,155,P005,G1061,Would definitely stay here again!
+2024-12-12,0,167,0,P005,G0,
+2024-12-13,1,161,161,P005,G1134,"Great experience, would book again!"
+2024-12-14,1,209,209,P005,G1134,"Great experience, would book again!"
+2024-12-15,1,163,163,P005,G1134,Would definitely stay here again!
+2024-12-16,1,104,104,P005,G1134,"Clean and well-maintained, fantastic experience!"
+2024-12-17,1,80,80,P005,G1019,Host was very responsive and helpful!
+2024-12-18,1,121,121,P005,G1019,"Amazing stay, very clean and comfortable!"
+2024-12-19,1,108,108,P005,G1019,"Not as expected, had some issues."
+2024-12-20,1,191,191,P005,G1079,Great value for the price!
+2024-12-21,0,197,0,P005,G0,
+2024-12-22,1,210,210,P005,G1154,"Loved the location, very convenient!"
+2024-12-23,1,93,93,P005,G1154,"Amenities were lacking, expected more."
+2024-12-24,1,105,105,P005,G1154,"A perfect stay, felt like home!"
+2024-12-25,1,139,139,P005,G1154,Would definitely stay here again!
+2024-12-26,1,90,90,P005,G1154,"A perfect stay, felt like home!"
+2024-12-27,1,145,145,P005,G1154,"Not perfect for the area, felt overpriced."
+2024-12-28,1,154,154,P005,G1154,"Amazing stay, very clean and comfortable!"
+2024-12-29,1,149,149,P005,G1154,"Excellent amenities, everything as described!"
+2024-12-30,1,79,79,P005,G1154,"Super cozy, highly recommend!"
+2024-12-31,1,119,119,P005,G1154,Host was very responsive and helpful!
+2025-01-01,1,114,114,P005,G1154,"Great experience, would book again!"
+2025-01-02,1,168,168,P005,G1154,"A perfect stay, felt like home!"
+2025-01-03,1,171,171,P005,G1154,Host was very responsive and helpful!
+2025-01-04,0,184,0,P005,G0,
+2025-01-05,1,146,146,P005,G1155,"Clean and well-maintained, fantastic experience!"
+2025-01-06,1,98,98,P005,G1080,"Loved the location, very convenient!"
+2025-01-07,1,112,112,P005,G1080,"Super cozy, highly recommend!"
+2025-01-08,0,157,0,P005,G0,
+2025-01-09,1,80,80,P005,G1045,"Great experience, would book again!"
+2025-01-10,1,140,140,P005,G1045,Host was very responsive and helpful!
+2025-01-11,1,206,206,P005,G1067,"Amazing stay, very clean and comfortable!"
+2025-01-12,1,152,152,P005,G1067,"Amazing stay, very clean and comfortable!"
+2025-01-13,1,107,107,P005,G1067,"Loved the location, very convenient!"
+2025-01-14,0,108,0,P005,G0,
+2025-01-15,1,113,113,P005,G1150,"Not perfect for the area, felt overpriced."
+2025-01-16,1,110,110,P005,G1150,"Clean and well-maintained, fantastic experience!"
+2025-01-17,0,153,0,P005,G0,
+2025-01-18,1,193,193,P005,G1156,"Excellent amenities, everything as described!"
+2025-01-19,0,150,0,P005,G0,
+2025-01-20,1,102,102,P005,G1108,"A perfect stay, felt like home!"
+2025-01-21,1,114,114,P005,G1108,"Great experience, would book again!"
+2025-01-22,1,148,148,P005,G1108,"Clean and well-maintained, fantastic experience!"
+2025-01-23,1,102,102,P005,G1108,"Not worth the price, expected better."
+2025-01-24,1,130,130,P005,G1157,"A perfect stay, felt like home!"
+2025-01-25,1,171,171,P005,G1157,"A perfect stay, felt like home!"
+2025-01-26,1,183,183,P005,G1157,"Clean and well-maintained, fantastic experience!"
+2025-01-27,1,101,101,P005,G1157,"Excellent amenities, everything as described!"
+2025-01-28,1,110,110,P005,G1047,"Not worth the price, expected better."
+2025-01-29,0,130,0,P005,G0,
+2025-01-30,1,85,85,P005,G1158,"Clean and well-maintained, fantastic experience!"
+2025-01-31,1,202,202,P005,G1159,"Clean and well-maintained, fantastic experience!"
+2025-02-01,1,165,165,P005,G1160,Host was very responsive and helpful!
