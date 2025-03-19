@@ -1,0 +1,8 @@
+03/18/2025
+- What I will do today?
+ -- TASK 2: We need to define categories of property rule violations that the NLP model will 
+detect in guest reviews
+I will now match reviews with its respective properties based on the property_id defined in both to distinguish the 
+reviews related to the properties. Then I will check if the review contains words related to property rules and then potentially
+FLAG reviews that violate the rules. 
+On 03/17/2025, I had already updated the properties.csv file to include these rules. 
