@@ -1,0 +1,708 @@
+PropertyID,GuestID,ReviewSummary,violations_detected,violation_type,Flagged
+P001,G1001,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1001,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1001,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1001,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1001,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1001,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1001,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1001,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1001,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1001,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1001,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1001,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1004,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1004,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1004,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1004,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1004,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1004,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1008,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1011,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1011,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1011,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1011,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1011,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1011,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1002,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1015,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1015,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1015,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1015,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1015,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1015,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1016,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1016,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1016,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1016,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1016,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1016,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1010,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1010,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1010,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1010,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1010,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1010,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1013,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1013,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1013,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1013,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1013,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1013,"Too loud at night, difficult to sleep.","{'PropertyID': 'P001', 'Violation': 'Noise Violation'}",Noise Violation,True
+P001,G1024,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1024,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1024,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1024,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1024,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1024,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1005,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1005,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1005,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1005,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1005,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1005,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1014,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1014,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1014,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1014,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1014,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P001,G1014,"Loved the location, very convenient!","{'PropertyID': 'P001', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1025,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1025,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1025,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1025,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1025,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1025,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1026,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1026,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1026,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1026,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1026,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1026,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1005,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1005,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1005,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1005,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1005,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1005,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1010,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1010,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1010,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1010,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1010,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1010,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1020,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1020,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1020,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1020,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1020,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1020,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1035,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1035,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1035,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1035,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1035,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1035,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1019,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1019,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1019,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1019,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1019,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1019,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1013,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1013,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1013,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1013,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1013,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1013,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1006,"Decent place, but communication was terrible. I was forced to leave because of a checkout misunderstanding—the host never gave me a clear time. Also, I got blamed for a noise complaint when I wasn’t even making any noise.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1006,"Decent place, but communication was terrible. I was forced to leave because of a checkout misunderstanding—the host never gave me a clear time. Also, I got blamed for a noise complaint when I wasn’t even making any noise.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1006,"Decent place, but communication was terrible. I was forced to leave because of a checkout misunderstanding—the host never gave me a clear time. Also, I got blamed for a noise complaint when I wasn’t even making any noise.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1006,"Decent place, but communication was terrible. I was forced to leave because of a checkout misunderstanding—the host never gave me a clear time. Also, I got blamed for a noise complaint when I wasn’t even making any noise.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1006,"Decent place, but communication was terrible. I was forced to leave because of a checkout misunderstanding—the host never gave me a clear time. Also, I got blamed for a noise complaint when I wasn’t even making any noise.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1006,"Decent place, but communication was terrible. I was forced to leave because of a checkout misunderstanding—the host never gave me a clear time. Also, I got blamed for a noise complaint when I wasn’t even making any noise.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1047,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1047,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1047,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1047,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1047,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1047,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1003,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"I think there was a misunderstanding about the number of guests staying. I didn’t realize there were such strict limits, and the host seemed a bit upset about it. I totally respect the rules, but I wish this had been communicated more clearly upfront to avoid confusion.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"I think there was a misunderstanding about the number of guests staying. I didn’t realize there were such strict limits, and the host seemed a bit upset about it. I totally respect the rules, but I wish this had been communicated more clearly upfront to avoid confusion.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"I think there was a misunderstanding about the number of guests staying. I didn’t realize there were such strict limits, and the host seemed a bit upset about it. I totally respect the rules, but I wish this had been communicated more clearly upfront to avoid confusion.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"I think there was a misunderstanding about the number of guests staying. I didn’t realize there were such strict limits, and the host seemed a bit upset about it. I totally respect the rules, but I wish this had been communicated more clearly upfront to avoid confusion.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"I think there was a misunderstanding about the number of guests staying. I didn’t realize there were such strict limits, and the host seemed a bit upset about it. I totally respect the rules, but I wish this had been communicated more clearly upfront to avoid confusion.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1056,"I think there was a misunderstanding about the number of guests staying. I didn’t realize there were such strict limits, and the host seemed a bit upset about it. I totally respect the rules, but I wish this had been communicated more clearly upfront to avoid confusion.","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1058,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1014,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1059,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1059,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1059,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1059,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1059,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1059,"Loved the location, very convenient!","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G1061,"The Airbnb itself was nice, but I was unfairly accused of smoking inside when I hadn’t. I respect house rules and was careful during my stay, so it was frustrating to be blamed for something I didn’t do.","{'PropertyID': 'P002', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P002,G1061,"The Airbnb itself was nice, but I was unfairly accused of smoking inside when I hadn’t. I respect house rules and was careful during my stay, so it was frustrating to be blamed for something I didn’t do.","{'PropertyID': 'P002', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P002,G1061,"The Airbnb itself was nice, but I was unfairly accused of smoking inside when I hadn’t. I respect house rules and was careful during my stay, so it was frustrating to be blamed for something I didn’t do.","{'PropertyID': 'P002', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P002,G1061,"The Airbnb itself was nice, but I was unfairly accused of smoking inside when I hadn’t. I respect house rules and was careful during my stay, so it was frustrating to be blamed for something I didn’t do.","{'PropertyID': 'P002', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P002,G1061,"The Airbnb itself was nice, but I was unfairly accused of smoking inside when I hadn’t. I respect house rules and was careful during my stay, so it was frustrating to be blamed for something I didn’t do.","{'PropertyID': 'P002', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P002,G0,"If the host had communicated better and handled the situation differently, this would have been a much better experience","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G0,"If the host had communicated better and handled the situation differently, this would have been a much better experience","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G0,"If the host had communicated better and handled the situation differently, this would have been a much better experience","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G0,"If the host had communicated better and handled the situation differently, this would have been a much better experience","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G0,"If the host had communicated better and handled the situation differently, this would have been a much better experience","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P002,G0,"If the host had communicated better and handled the situation differently, this would have been a much better experience","{'PropertyID': 'P002', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1064,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1066,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1066,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1066,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1066,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1066,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1066,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1068,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1076,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1076,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1076,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1076,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1076,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1076,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"My experience at this Airbnb was disappointing. I was unexpectedly asked to leave because I had supposedly overstayed, but the checkout time was never clearly communicated. I would have happily left on time if I had been informed properly.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"My experience at this Airbnb was disappointing. I was unexpectedly asked to leave because I had supposedly overstayed, but the checkout time was never clearly communicated. I would have happily left on time if I had been informed properly.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"My experience at this Airbnb was disappointing. I was unexpectedly asked to leave because I had supposedly overstayed, but the checkout time was never clearly communicated. I would have happily left on time if I had been informed properly.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"My experience at this Airbnb was disappointing. I was unexpectedly asked to leave because I had supposedly overstayed, but the checkout time was never clearly communicated. I would have happily left on time if I had been informed properly.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"My experience at this Airbnb was disappointing. I was unexpectedly asked to leave because I had supposedly overstayed, but the checkout time was never clearly communicated. I would have happily left on time if I had been informed properly.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"My experience at this Airbnb was disappointing. I was unexpectedly asked to leave because I had supposedly overstayed, but the checkout time was never clearly communicated. I would have happily left on time if I had been informed properly.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Noise Violation'}",Noise Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Noise Violation'}",Noise Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Noise Violation'}",Noise Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Noise Violation'}",Noise Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Noise Violation'}",Noise Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Noise Violation'}",Noise Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1049,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1049,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1049,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1049,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1049,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1049,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1025,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1025,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1025,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1025,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1025,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1025,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1084,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1084,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1084,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1084,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1084,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1084,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1085,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1085,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1085,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1085,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1085,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1085,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1094,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1094,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1094,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1094,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1094,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1094,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1079,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P003,G1098,"Loved the location, very convenient!","{'PropertyID': 'P003', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1103,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1108,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1108,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1108,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1108,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1108,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1108,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1095,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1095,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1095,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1095,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1095,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1095,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1114,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1114,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1114,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1114,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1114,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1114,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1107,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1107,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1107,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1107,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1107,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1107,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1117,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1117,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1117,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1117,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1117,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1117,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1065,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1065,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1065,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1065,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1065,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1065,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1117,"Too loud at night, difficult to sleep.","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1117,"Too loud at night, difficult to sleep.","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1117,"Too loud at night, difficult to sleep.","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1117,"Too loud at night, difficult to sleep.","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1117,"Too loud at night, difficult to sleep.","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1117,"Too loud at night, difficult to sleep.","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1070,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1070,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1070,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1070,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1070,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1070,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1118,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1118,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1118,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1118,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1118,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1118,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1078,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1078,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1078,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1078,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1078,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1078,"Other than that, the place was fine, but I wish communication had been clearer.","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1121,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1121,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1121,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1121,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1121,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1121,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Noise Violation'}",Noise Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1122,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1122,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1122,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1122,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1122,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1122,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1068,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1068,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1068,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1068,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1068,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1068,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1046,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1046,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1046,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1046,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1046,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1046,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1053,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1053,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1053,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1053,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1053,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1053,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1050,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1050,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1050,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1050,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1050,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1050,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1028,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1028,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1028,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1028,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1028,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1028,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1125,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1125,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1125,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1125,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1125,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P004,G1125,"Loved the location, very convenient!","{'PropertyID': 'P004', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1013,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1013,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1013,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1013,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1013,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1013,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1130,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1130,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1130,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1130,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1130,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1130,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1021,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1021,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1021,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1021,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1021,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1021,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Not a great experience. I got kicked out because the host claimed I overstayed, but I was never told the exact checkout time! On top of that, the neighbors complained about noise, but I wasn’t even making any.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1079,"Not a great experience. I got kicked out because the host claimed I overstayed, but I was never told the exact checkout time! On top of that, the neighbors complained about noise, but I wasn’t even making any.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1079,"Not a great experience. I got kicked out because the host claimed I overstayed, but I was never told the exact checkout time! On top of that, the neighbors complained about noise, but I wasn’t even making any.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1079,"Not a great experience. I got kicked out because the host claimed I overstayed, but I was never told the exact checkout time! On top of that, the neighbors complained about noise, but I wasn’t even making any.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1079,"Not a great experience. I got kicked out because the host claimed I overstayed, but I was never told the exact checkout time! On top of that, the neighbors complained about noise, but I wasn’t even making any.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1079,"Not a great experience. I got kicked out because the host claimed I overstayed, but I was never told the exact checkout time! On top of that, the neighbors complained about noise, but I wasn’t even making any.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1132,"The place was okay, but the poor communication and false accusations made it a stressful stay. Wouldn’t recommend.","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"The place was okay, but the poor communication and false accusations made it a stressful stay. Wouldn’t recommend.","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"The place was okay, but the poor communication and false accusations made it a stressful stay. Wouldn’t recommend.","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"The place was okay, but the poor communication and false accusations made it a stressful stay. Wouldn’t recommend.","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"The place was okay, but the poor communication and false accusations made it a stressful stay. Wouldn’t recommend.","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"The place was okay, but the poor communication and false accusations made it a stressful stay. Wouldn’t recommend.","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1132,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Smoking Violation'}",Smoking Violation,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.","{'PropertyID': 'P005', 'Violation': 'Property Damage'}",Property Damage,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1141,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1079,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1113,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1113,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1113,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1113,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1113,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1113,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1145,"Too loud at night, difficult to sleep.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1145,"Too loud at night, difficult to sleep.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1145,"Too loud at night, difficult to sleep.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1145,"Too loud at night, difficult to sleep.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1145,"Too loud at night, difficult to sleep.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1145,"Too loud at night, difficult to sleep.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1055,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1055,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1055,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1055,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1055,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1055,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1147,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1147,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1147,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1147,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1147,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1147,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1149,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1149,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1149,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1149,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1149,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1149,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1150,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1150,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1150,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1150,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1150,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1150,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1154,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1154,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1154,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1154,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1154,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1154,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1155,"I was surprised to hear there were noise complaints from the neighbors because we were just having normal conversations and enjoying our time. I wouldn’t say we were being loud at all, but I guess the walls might be thin or the neighbors are just sensitive.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1155,"I was surprised to hear there were noise complaints from the neighbors because we were just having normal conversations and enjoying our time. I wouldn’t say we were being loud at all, but I guess the walls might be thin or the neighbors are just sensitive.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1155,"I was surprised to hear there were noise complaints from the neighbors because we were just having normal conversations and enjoying our time. I wouldn’t say we were being loud at all, but I guess the walls might be thin or the neighbors are just sensitive.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1155,"I was surprised to hear there were noise complaints from the neighbors because we were just having normal conversations and enjoying our time. I wouldn’t say we were being loud at all, but I guess the walls might be thin or the neighbors are just sensitive.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1155,"I was surprised to hear there were noise complaints from the neighbors because we were just having normal conversations and enjoying our time. I wouldn’t say we were being loud at all, but I guess the walls might be thin or the neighbors are just sensitive.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1155,"I was surprised to hear there were noise complaints from the neighbors because we were just having normal conversations and enjoying our time. I wouldn’t say we were being loud at all, but I guess the walls might be thin or the neighbors are just sensitive.","{'PropertyID': 'P005', 'Violation': 'Noise Violation'}",Noise Violation,True
+P005,G1067,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1067,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1067,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1067,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1067,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
+P005,G1067,"Loved the location, very convenient!","{'PropertyID': 'P005', 'Violation': 'Pet Violation'}",Pet Violation,True
