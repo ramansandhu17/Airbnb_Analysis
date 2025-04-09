@@ -1,6 +1,16 @@
-PropertyID,Name,Location
-P001,Private 1 bedroom suite,Mukilteo
-P002,Beachfront Villa,Edmonds
-P003,City Center Loft,Seattle
-P004,Cozy Cabin,NorthBend
-P005,Modern Studio,Bellevue
+PropertyID,Name,Bedrooms,Bathrooms,Location,State,PropertyRules
+P001,Private 1 bedroom suite,1,1,Mukilteo,WA,"This is a non-smoking property, and no pets are allowed. Please be mindful of your noise levels, especially after 9 PM, as we want to maintain a peaceful environment for all guests. Maximum occupancy is 2 guests only. Any parties or gatherings are strictly prohibited. Please respect the neighbors’ privacy and avoid any disruptive behavior. We have security cameras on the exterior of the property for your safety and to monitor the entrance. No outside guests are allowed unless pre-approved. Please use the designated parking spot only."
+P002,Beachfront Villa,3,2,Edmonds,WA,"We kindly ask that guests respect the natural beauty of the beach. No smoking at all times. No pets are allowed on the property, and any loud parties or gatherings are not permitted. Guests must clean off any sand before entering the villa to avoid damage to the flooring. We ask that you respect the privacy of the neighbors at all times. The property has a private parking area for up to 2 vehicles. Maximum occupancy is 4 guests. For safety reasons, security cameras are installed at the front gate and in outdoor common areas. No events or photo shoots allowed without prior approval. Please keep the doors and windows locked when not in use."
+P003,City Center Loft,2,1.5,Seattle,WA,"This loft is located in a lively city center. For the comfort of our neighbors, no smoking, pets, or parties are allowed. Quiet hours are enforced from 10 PM to 8 AM—please keep noise to a minimum, especially in the evening. Maximum occupancy is 2 guests. All guests must complete ID verification before check-in. A security camera is located at the entrance for your safety. There is free parking available in the nearby garage; please use the designated parking spot. Guests are asked to dispose of any trash in the provided bins to maintain cleanliness in the building."
+P004,Cozy Cabin,1,1,NorthBend,WA,"This is a peaceful cabin in the woods, and we ask all guests to respect the natural surroundings. No pets are allowed, and we request that you refrain from making noise after 11 PM. Outdoor fires are not permitted, except in the designated fire pit. Please bring your own firewood if you wish to use it. Maximum occupancy is 4 guests, and a minimum of 2 nights is required for booking. For the safety of all guests, there are security cameras installed on the exterior of the cabin. Please do not park in any non-designated spots; parking is provided for 2 vehicles only. Respect the wildlife in the area and avoid feeding animals."
+P005,Modern Studio,0,1,Bellevue,WA,"This is a non-smoking and pet-free studio. Please observe quiet hours from 10 PM to 8 AM to respect the neighbors.
+Maximum occupancy: 3 guests. No extra guests or visitors without approval.
+Check-in: After 3 PM, Check-out: By 11 AM.
+No parties or events allowed. Violation may lead to eviction without a refund.
+Security cameras are installed at the entrance and common areas for safety.
+Parking: 1 designated spot is provided. Additional vehicles must park on the street.
+Appliance usage: Please follow the instructions and ensure all appliances are turned off when not in use.
+Trash: Dispose of trash in the provided bins; recycling instructions are in the guest manual.
+Windows & Doors: Ensure windows and doors are locked when not in use.
+Respect property: Do not rearrange furniture or damage items. A cleaning fee will apply for excessive mess or damage.
+Eco-friendly: Be mindful of energy and water usage during your stay."
