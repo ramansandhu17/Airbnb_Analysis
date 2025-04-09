@@ -1,3 +1,8 @@
+04/09/2025
+- What I will do today 
+--- I will complete Task 3 from the project plan today which is Label and Categorize VIolating Reviews. I will 
+label the reviews as violating or non violating based on whether they contradict a property's predefined rules. This labeled data set will then be used to train a ML Model. 
+END Deliverable - I will write a rule based labeling script using Python and Pandas to create a truth dataset.
 03/18/2025
 - What I will do today?
  -- TASK 2: We need to define categories of property rule violations that the NLP model will 
