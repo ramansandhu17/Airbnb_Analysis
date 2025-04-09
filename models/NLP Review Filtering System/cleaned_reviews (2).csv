@@ -1,0 +1,917 @@
+Date,Occupancy,PricePerNight,Revenue,PropertyID,GuestID,ReviewSummary,CleanedReview
+8/5/24,1,169,169,P001,G1001,"A perfect stay, felt like home!",perfect stay felt like home
+8/6/24,1,123,123,P001,G1001,"Loved the location, very convenient!",loved location convenient
+8/7/24,1,85,85,P001,G1001,"A perfect stay, felt like home!",perfect stay felt like home
+8/8/24,1,134,134,P001,G1001,"Super cozy, highly recommend!",super cozy highly recommend
+8/9/24,0,196,0,P001,G0,,
+8/10/24,1,202,202,P001,G1002,Host was very responsive and helpful!,host responsive helpful
+8/11/24,1,191,191,P001,G1002,"A perfect stay, felt like home!",perfect stay felt like home
+8/12/24,1,104,104,P001,G1002,"Super cozy, highly recommend!",super cozy highly recommend
+8/13/24,1,139,139,P001,G1002,"Loved the location, very convenient!",loved location convenient
+8/14/24,1,119,119,P001,G1002,"Loved the location, very convenient!",loved location convenient
+8/15/24,1,87,87,P001,G1002,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/16/24,1,166,166,P001,G1002,Great value for the price!,great value price
+8/17/24,1,209,209,P001,G1002,Great value for the price!,great value price
+8/18/24,1,196,196,P001,G1003,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+8/19/24,1,123,123,P001,G1003,"Great experience, would book again!",great experience would book
+8/20/24,1,112,112,P001,G1003,"Super cozy, highly recommend!",super cozy highly recommend
+8/21/24,1,164,164,P001,G1003,"Great experience, would book again!",great experience would book
+8/22/24,1,76,76,P001,G1003,"Super cozy, highly recommend!",super cozy highly recommend
+8/23/24,1,192,192,P001,G1003,"Excellent amenities, everything as described!",excellent amenity everything described
+8/24/24,1,165,165,P001,G1003,"Super cozy, highly recommend!",super cozy highly recommend
+8/25/24,1,170,170,P001,G1003,"Super cozy, highly recommend!",super cozy highly recommend
+8/26/24,1,99,99,P001,G1003,Host was very responsive and helpful!,host responsive helpful
+8/27/24,1,137,137,P001,G1003,"A perfect stay, felt like home!",perfect stay felt like home
+8/28/24,1,122,122,P001,G1001,"Too loud at night, difficult to sleep.",loud night difficult sleep
+8/29/24,1,76,76,P001,G1001,"Great experience, would book again!",great experience would book
+8/30/24,1,144,144,P001,G1001,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+8/31/24,1,135,135,P001,G1001,Host was very responsive and helpful!,host responsive helpful
+9/1/24,1,179,179,P001,G1004,"A perfect stay, felt like home!",perfect stay felt like home
+9/2/24,1,155,155,P001,G1004,"Loved the location, very convenient!",loved location convenient
+9/3/24,0,147,0,P001,G0,,
+9/4/24,1,133,133,P001,G1005,Would definitely stay here again!,would definitely stay
+9/5/24,1,133,133,P001,G1006,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/6/24,1,190,190,P001,G1007,"Super cozy, highly recommend!",super cozy highly recommend
+9/7/24,1,158,158,P001,G1007,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/8/24,1,147,147,P001,G1007,Would definitely stay here again!,would definitely stay
+9/9/24,1,72,72,P001,G1007,Host was very responsive and helpful!,host responsive helpful
+9/10/24,1,136,136,P001,G1007,"A perfect stay, felt like home!",perfect stay felt like home
+9/11/24,1,102,102,P001,G1007,Would definitely stay here again!,would definitely stay
+9/12/24,1,124,124,P001,G1007,Would definitely stay here again!,would definitely stay
+9/13/24,1,139,139,P001,G1007,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/14/24,1,187,187,P001,G1008,"Great experience, would book again!",great experience would book
+9/15/24,1,191,191,P001,G1008,"Loved the location, very convenient!",loved location convenient
+9/16/24,1,133,133,P001,G1008,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/17/24,1,125,125,P001,G1008,"Loved the location, very convenient!",loved location convenient
+9/18/24,1,72,72,P001,G1008,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/19/24,1,81,81,P001,G1008,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/20/24,1,181,181,P001,G1008,Host was very responsive and helpful!,host responsive helpful
+9/21/24,1,152,152,P001,G1008,Great value for the price!,great value price
+9/22/24,1,180,180,P001,G1008,"Photos were misleading, room was smaller.",photo misleading room smaller
+9/23/24,1,127,127,P001,G1009,"Not worth the price, expected better.",worth price expected better
+9/24/24,1,167,167,P001,G1009,"A perfect stay, felt like home!",perfect stay felt like home
+9/25/24,1,156,156,P001,G1009,Would definitely stay here again!,would definitely stay
+9/26/24,1,101,101,P001,G1009,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/27/24,0,185,0,P001,G0,,
+9/28/24,1,150,150,P001,G1010,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/29/24,0,147,0,P001,G0,,
+9/30/24,1,153,153,P001,G1008,"Excellent amenities, everything as described!",excellent amenity everything described
+10/1/24,1,120,120,P001,G1008,"Great experience, would book again!",great experience would book
+10/2/24,1,92,92,P001,G1008,Would definitely stay here again!,would definitely stay
+10/3/24,1,79,79,P001,G1008,Great value for the price!,great value price
+10/4/24,1,139,139,P001,G1011,"Loved the location, very convenient!",loved location convenient
+10/5/24,1,191,191,P001,G1012,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+10/6/24,1,194,194,P001,G1012,Host was very responsive and helpful!,host responsive helpful
+10/7/24,1,170,170,P001,G1012,Great value for the price!,great value price
+10/8/24,0,89,0,P001,G0,,
+10/9/24,1,144,144,P001,G1013,"Super cozy, highly recommend!",super cozy highly recommend
+10/10/24,1,116,116,P001,G1012,"Photos were misleading, room was smaller.",photo misleading room smaller
+10/11/24,1,175,175,P001,G1012,Host was very responsive and helpful!,host responsive helpful
+10/12/24,1,207,207,P001,G1012,Great value for the price!,great value price
+10/13/24,1,192,192,P001,G1012,"Excellent amenities, everything as described!",excellent amenity everything described
+10/14/24,1,87,87,P001,G1012,"A perfect stay, felt like home!",perfect stay felt like home
+10/15/24,1,75,75,P001,G1012,The cleanliness could have been better.,cleanliness could better
+10/16/24,1,100,100,P001,G1012,Would definitely stay here again!,would definitely stay
+10/17/24,0,73,0,P001,G0,,
+10/18/24,0,180,0,P001,G0,,
+10/19/24,1,140,140,P001,G1008,"Super cozy, highly recommend!",super cozy highly recommend
+10/20/24,1,178,178,P001,G1013,Would definitely stay here again!,would definitely stay
+10/21/24,1,122,122,P001,G1013,Great value for the price!,great value price
+10/22/24,1,98,98,P001,G1014,"Excellent amenities, everything as described!",excellent amenity everything described
+10/23/24,1,87,87,P001,G1014,"Great experience, would book again!",great experience would book
+10/24/24,1,70,70,P001,G1014,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+10/25/24,1,134,134,P001,G1014,"Excellent amenities, everything as described!",excellent amenity everything described
+10/26/24,1,183,183,P001,G1014,Great value for the price!,great value price
+10/27/24,1,200,200,P001,G1014,Great value for the price!,great value price
+10/28/24,1,79,79,P001,G1014,"Super cozy, highly recommend!",super cozy highly recommend
+10/29/24,1,94,94,P001,G1007,"Great experience, would book again!",great experience would book
+10/30/24,1,140,140,P001,G1001,"Excellent amenities, everything as described!",excellent amenity everything described
+10/31/24,1,135,135,P001,G1001,"Host was slow to respond, frustrating.",host slow respond frustrating
+11/1/24,1,198,198,P001,G1001,Great value for the price!,great value price
+11/2/24,1,176,176,P001,G1006,The cleanliness could have been better.,cleanliness could better
+11/3/24,1,177,177,P001,G1006,"Not as expected, had some issues.",expected issue
+11/4/24,1,143,143,P001,G1006,"The place itself was decent, but my experience wasn’t great. I had to leave earlier than expected because the host said I overstayed, even though I was never informed of the checkout time.
+
+Also, I was blamed for a noise complaint from the neighbors, but I wasn’t even making noise. I kept things quiet and was out most of the time, so that was frustrating.
+
+If communication had been clearer, this would have been a much better stay.
+",place decent experience great leave earlier expected host said overstayed even though never informed checkout time also blamed noise complaint neighbor even making noise kept thing quiet time frustrating communication clearer would much better stay
+11/5/24,1,120,120,P001,G1006,Host was very responsive and helpful!,host responsive helpful
+11/6/24,1,156,156,P001,G1006,"Super cozy, highly recommend!",super cozy highly recommend
+11/7/24,1,107,107,P001,G1006,"Excellent amenities, everything as described!",excellent amenity everything described
+11/8/24,1,170,170,P001,G1006,"A perfect stay, felt like home!",perfect stay felt like home
+11/9/24,1,172,172,P001,G1002,"Loved the location, very convenient!",loved location convenient
+11/10/24,1,191,191,P001,G1002,Great value for the price!,great value price
+11/11/24,1,132,132,P001,G1015,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+11/12/24,1,165,165,P001,G1015,Great value for the price!,great value price
+11/13/24,1,108,108,P001,G1015,"Loved the location, very convenient!",loved location convenient
+11/14/24,1,159,159,P001,G1015,Great value for the price!,great value price
+11/15/24,0,144,0,P001,G0,,
+11/16/24,1,183,183,P001,G1016,"Excellent amenities, everything as described!",excellent amenity everything described
+11/17/24,1,137,137,P001,G1016,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+11/18/24,1,110,110,P001,G1016,"Loved the location, very convenient!",loved location convenient
+11/19/24,0,160,0,P001,G0,,
+11/20/24,1,85,85,P001,G1017,"A perfect stay, felt like home!",perfect stay felt like home
+11/21/24,1,90,90,P001,G1017,"Great experience, would book again!",great experience would book
+11/22/24,1,130,130,P001,G1017,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+11/23/24,1,200,200,P001,G1017,"A perfect stay, felt like home!",perfect stay felt like home
+11/24/24,1,150,150,P001,G1017,"A perfect stay, felt like home!",perfect stay felt like home
+11/25/24,1,142,142,P001,G1017,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+11/26/24,1,115,115,P001,G1017,"A perfect stay, felt like home!",perfect stay felt like home
+11/27/24,1,93,93,P001,G1010,Host was very responsive and helpful!,host responsive helpful
+11/28/24,1,141,141,P001,G1010,Great value for the price!,great value price
+11/29/24,0,144,0,P001,G0,,
+11/30/24,1,194,194,P001,G1001,Host was very responsive and helpful!,host responsive helpful
+12/1/24,1,168,168,P001,G1001,Would definitely stay here again!,would definitely stay
+12/2/24,1,129,129,P001,G1001,"Great experience, would book again!",great experience would book
+12/3/24,1,125,125,P001,G1001,"Excellent amenities, everything as described!",excellent amenity everything described
+12/4/24,1,94,94,P001,G1010,"Super cozy, highly recommend!",super cozy highly recommend
+12/5/24,1,157,157,P001,G1010,Host was very responsive and helpful!,host responsive helpful
+12/6/24,1,172,172,P001,G1010,Great value for the price!,great value price
+12/7/24,1,191,191,P001,G1010,"Loved the location, very convenient!",loved location convenient
+12/8/24,1,149,149,P001,G1010,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/9/24,1,76,76,P001,G1013,Host was very responsive and helpful!,host responsive helpful
+12/10/24,1,105,105,P001,G1013,"Too loud at night, difficult to sleep.",loud night difficult sleep
+12/11/24,1,121,121,P001,G1013,"Host was slow to respond, frustrating.",host slow respond frustrating
+12/12/24,1,112,112,P001,G1003,"Photos were misleading, room was smaller.",photo misleading room smaller
+12/13/24,1,207,207,P001,G1003,"Super cozy, highly recommend!",super cozy highly recommend
+12/14/24,1,175,175,P001,G1003,"Great experience, would book again!",great experience would book
+12/15/24,1,183,183,P001,G1003,Host was very responsive and helpful!,host responsive helpful
+12/16/24,1,104,104,P001,G1003,"Super cozy, highly recommend!",super cozy highly recommend
+12/17/24,1,147,147,P001,G1003,Would definitely stay here again!,would definitely stay
+12/18/24,1,148,148,P001,G1003,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+12/19/24,1,142,142,P001,G1003,Host was very responsive and helpful!,host responsive helpful
+12/20/24,1,193,193,P001,G1003,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/21/24,1,151,151,P001,G1003,"A perfect stay, felt like home!",perfect stay felt like home
+12/22/24,1,196,196,P001,G1018,"A perfect stay, felt like home!",perfect stay felt like home
+12/23/24,0,79,0,P001,G0,,
+12/24/24,1,122,122,P001,G1019,Great value for the price!,great value price
+12/25/24,1,118,118,P001,G1020,"Excellent amenities, everything as described!",excellent amenity everything described
+12/26/24,1,136,136,P001,G1020,"A perfect stay, felt like home!",perfect stay felt like home
+12/27/24,1,152,152,P001,G1020,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/28/24,1,176,176,P001,G1020,Great value for the price!,great value price
+12/29/24,1,186,186,P001,G1020,"Excellent amenities, everything as described!",excellent amenity everything described
+12/30/24,1,130,130,P001,G1020,"Super cozy, highly recommend!",super cozy highly recommend
+12/31/24,1,86,86,P001,G1020,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+1/1/25,1,96,96,P001,G1021,"A perfect stay, felt like home!",perfect stay felt like home
+1/2/25,1,96,96,P001,G1021,Would definitely stay here again!,would definitely stay
+1/3/25,1,137,137,P001,G1022,Would definitely stay here again!,would definitely stay
+1/4/25,1,183,183,P001,G1022,"Excellent amenities, everything as described!",excellent amenity everything described
+1/5/25,1,162,162,P001,G1022,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+1/6/25,1,94,94,P001,G1022,Host was very responsive and helpful!,host responsive helpful
+1/7/25,0,74,0,P001,G0,,
+1/8/25,1,131,131,P001,G1002,"Excellent amenities, everything as described!",excellent amenity everything described
+1/9/25,1,167,167,P001,G1023,Host was very responsive and helpful!,host responsive helpful
+1/10/25,1,133,133,P001,G1024,"Loved the location, very convenient!",loved location convenient
+1/11/25,1,196,196,P001,G1024,"Not worth the price, expected better.",worth price expected better
+1/12/25,1,131,131,P001,G1024,Host was very responsive and helpful!,host responsive helpful
+1/13/25,1,151,151,P001,G1024,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/14/25,1,149,149,P001,G1024,Great value for the price!,great value price
+1/15/25,1,111,111,P001,G1024,"A perfect stay, felt like home!",perfect stay felt like home
+1/16/25,1,131,131,P001,G1024,"Not as expected, had some issues.",expected issue
+1/17/25,1,134,134,P001,G1024,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+1/18/25,1,137,137,P001,G1017,"A perfect stay, felt like home!",perfect stay felt like home
+1/19/25,1,194,194,P001,G1003,"Super cozy, highly recommend!",super cozy highly recommend
+1/20/25,1,86,86,P001,G1005,"Great experience, would book again!",great experience would book
+1/21/25,1,122,122,P001,G1005,"Loved the location, very convenient!",loved location convenient
+1/22/25,1,111,111,P001,G1005,"Super cozy, highly recommend!",super cozy highly recommend
+1/23/25,0,156,0,P001,G0,,
+1/24/25,1,194,194,P001,G1004,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+1/25/25,1,150,150,P001,G1014,Host was very responsive and helpful!,host responsive helpful
+1/26/25,1,139,139,P001,G1014,"Loved the location, very convenient!",loved location convenient
+1/27/25,1,74,74,P001,G1025,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+1/28/25,1,88,88,P001,G1025,Host was very responsive and helpful!,host responsive helpful
+1/29/25,1,140,140,P001,G1026,"Great experience, would book again!",great experience would book
+1/30/25,0,112,0,P001,G0,,
+1/31/25,1,191,191,P001,G1027,Great value for the price!,great value price
+2/1/25,1,191,191,P001,G1027,"Super cozy, highly recommend!",super cozy highly recommend
+8/5/24,1,149,149,P002,G1025,"Loved the location, very convenient!",loved location convenient
+8/6/24,1,77,77,P002,G1017,Host was very responsive and helpful!,host responsive helpful
+8/7/24,1,84,84,P002,G1017,Host was very responsive and helpful!,host responsive helpful
+8/8/24,1,109,109,P002,G1017,Would definitely stay here again!,would definitely stay
+8/9/24,1,155,155,P002,G1026,Would definitely stay here again!,would definitely stay
+8/10/24,1,183,183,P002,G1026,"Excellent amenities, everything as described!",excellent amenity everything described
+8/11/24,1,157,157,P002,G1026,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/12/24,1,121,121,P002,G1026,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/13/24,1,162,162,P002,G1026,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+8/14/24,1,110,110,P002,G1026,"Loved the location, very convenient!",loved location convenient
+8/15/24,1,169,169,P002,G1026,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+8/16/24,1,202,202,P002,G1028,"A perfect stay, felt like home!",perfect stay felt like home
+8/17/24,1,161,161,P002,G1005,"Loved the location, very convenient!",loved location convenient
+8/18/24,1,196,196,P002,G1005,"Uncomfortable stay, wouldn't recommend.",uncomfortable stay would recommend
+8/19/24,1,90,90,P002,G1005,"A perfect stay, felt like home!",perfect stay felt like home
+8/20/24,1,83,83,P002,G1005,Host was very responsive and helpful!,host responsive helpful
+8/21/24,1,132,132,P002,G1023,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/22/24,1,110,110,P002,G1008,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+8/23/24,1,146,146,P002,G1003,"Great experience, would book again!",great experience would book
+8/24/24,1,139,139,P002,G1010,"Great experience, would book again!",great experience would book
+8/25/24,1,159,159,P002,G1010,"Loved the location, very convenient!",loved location convenient
+8/26/24,0,164,0,P002,G0,,
+8/27/24,1,109,109,P002,G1029,Would definitely stay here again!,would definitely stay
+8/28/24,1,90,90,P002,G1030,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/29/24,1,75,75,P002,G1009,"Excellent amenities, everything as described!",excellent amenity everything described
+8/30/24,1,201,201,P002,G1009,Host was very responsive and helpful!,host responsive helpful
+8/31/24,1,144,144,P002,G1020,"Loved the location, very convenient!",loved location convenient
+9/1/24,1,194,194,P002,G1031,The cleanliness could have been better.,cleanliness could better
+9/2/24,1,162,162,P002,G1016,Host was very responsive and helpful!,host responsive helpful
+9/3/24,1,75,75,P002,G1032,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+9/4/24,1,152,152,P002,G1033,"A perfect stay, felt like home!",perfect stay felt like home
+9/5/24,1,77,77,P002,G1033,"Uncomfortable stay, wouldn't recommend.",uncomfortable stay would recommend
+9/6/24,0,171,0,P002,G0,,
+9/7/24,1,173,173,P002,G1034,Great value for the price!,great value price
+9/8/24,0,172,0,P002,G0,,
+9/9/24,1,132,132,P002,G1035,"Great experience, would book again!",great experience would book
+9/10/24,1,163,163,P002,G1035,"Loved the location, very convenient!",loved location convenient
+9/11/24,0,96,0,P002,G0,,
+9/12/24,1,88,88,P002,G1019,"Great experience, would book again!",great experience would book
+9/13/24,1,208,208,P002,G1019,"Loved the location, very convenient!",loved location convenient
+9/14/24,1,184,184,P002,G1019,Host was very responsive and helpful!,host responsive helpful
+9/15/24,1,134,134,P002,G1033,Would definitely stay here again!,would definitely stay
+9/16/24,0,136,0,P002,G0,,
+9/17/24,1,130,130,P002,G1036,"During  my stay, the host seemed very concerned about the condition of the property, which I found a bit odd. I did my best to be respectful, but I guess some things in the place were already fragile or not in the best shape. It’s unfortunate that I ended up being blamed for it.
+
+Overall, the stay was decent, but I didn’t appreciate feeling like I had to take responsibility for things that may have already been an issue.",stay host seemed concerned condition property found bit odd best respectful guess thing place already fragile best shape unfortunate ended blamed overall stay decent appreciate feeling like take responsibility thing may already issue
+9/18/24,1,108,108,P002,G1037,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/19/24,1,85,85,P002,G1029,"Excellent amenities, everything as described!",excellent amenity everything described
+9/20/24,1,178,178,P002,G1029,"Not worth the price, expected better.",worth price expected better
+9/21/24,1,164,164,P002,G1029,"Super cozy, highly recommend!",super cozy highly recommend
+9/22/24,1,207,207,P002,G1013,"Loved the location, very convenient!",loved location convenient
+9/23/24,1,121,121,P002,G1013,"Super cozy, highly recommend!",super cozy highly recommend
+9/24/24,1,90,90,P002,G1038,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/25/24,1,168,168,P002,G1039,"Super cozy, highly recommend!",super cozy highly recommend
+9/26/24,1,115,115,P002,G1039,"A perfect stay, felt like home!",perfect stay felt like home
+9/27/24,1,136,136,P002,G1006,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/28/24,1,202,202,P002,G1006,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/29/24,1,158,158,P002,G1035,"A perfect stay, felt like home!",perfect stay felt like home
+9/30/24,1,144,144,P002,G1040,"Excellent amenities, everything as described!",excellent amenity everything described
+10/1/24,1,130,130,P002,G1041,Great value for the price!,great value price
+10/2/24,1,118,118,P002,G1041,Great value for the price!,great value price
+10/3/24,1,105,105,P002,G1041,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+10/4/24,1,163,163,P002,G1042,Great value for the price!,great value price
+10/5/24,0,192,0,P002,G0,,
+10/6/24,1,173,173,P002,G1043,Host was very responsive and helpful!,host responsive helpful
+10/7/24,1,119,119,P002,G1019,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+10/8/24,1,149,149,P002,G1019,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+10/9/24,1,88,88,P002,G1044,Great value for the price!,great value price
+10/10/24,1,100,100,P002,G1006,Host was very responsive and helpful!,host responsive helpful
+10/11/24,1,180,180,P002,G1045,Great value for the price!,great value price
+10/12/24,1,207,207,P002,G1045,Host was very responsive and helpful!,host responsive helpful
+10/13/24,1,132,132,P002,G1035,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+10/14/24,1,123,123,P002,G1035,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+10/15/24,1,129,129,P002,G1035,Would definitely stay here again!,would definitely stay
+10/16/24,1,102,102,P002,G1035,"A perfect stay, felt like home!",perfect stay felt like home
+10/17/24,1,105,105,P002,G1035,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+10/18/24,1,178,178,P002,G1006,"Super cozy, highly recommend!",super cozy highly recommend
+10/19/24,1,147,147,P002,G1006,"Excellent amenities, everything as described!",excellent amenity everything described
+10/20/24,1,144,144,P002,G1006,"Not worth the price, expected better.",worth price expected better
+10/21/24,1,88,88,P002,G1006,"Excellent amenities, everything as described!",excellent amenity everything described
+10/22/24,1,166,166,P002,G1006,"Decent place, but communication was terrible. I was forced to leave because of a checkout misunderstanding—the host never gave me a clear time. Also, I got blamed for a noise complaint when I wasn’t even making any noise.",decent place communication terrible forced leave checkout host never gave clear time also got blamed noise complaint even making noise
+10/23/24,1,137,137,P002,G1006,,
+10/24/24,1,89,89,P002,G1006,"Not the worst stay, but definitely not booking again.",worst stay definitely booking
+10/25/24,1,190,190,P002,G1006,Great value for the price!,great value price
+10/26/24,1,198,198,P002,G1006,"Super cozy, highly recommend!",super cozy highly recommend
+10/27/24,1,145,145,P002,G1028,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+10/28/24,1,114,114,P002,G1046,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+10/29/24,0,165,0,P002,G0,,
+10/30/24,1,99,99,P002,G1047,"Loved the location, very convenient!",loved location convenient
+10/31/24,1,93,93,P002,G1047,Host was very responsive and helpful!,host responsive helpful
+11/1/24,1,174,174,P002,G1047,"Great experience, would book again!",great experience would book
+11/2/24,1,184,184,P002,G1047,"Excellent amenities, everything as described!",excellent amenity everything described
+11/3/24,1,182,182,P002,G1047,Could have been a better experience.,could better experience
+11/4/24,1,124,124,P002,G1047,"Excellent amenities, everything as described!",excellent amenity everything described
+11/5/24,1,86,86,P002,G1047,Host was very responsive and helpful!,host responsive helpful
+11/6/24,1,140,140,P002,G1047,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+11/7/24,1,144,144,P002,G1030,"Super cozy, highly recommend!",super cozy highly recommend
+11/8/24,1,188,188,P002,G1030,Host was very responsive and helpful!,host responsive helpful
+11/9/24,0,182,0,P002,G0,,
+11/10/24,1,144,144,P002,G1048,Could have been a better experience.,could better experience
+11/11/24,1,79,79,P002,G1048,"Excellent amenities, everything as described!",excellent amenity everything described
+11/12/24,1,74,74,P002,G1048,The cleanliness could have been better.,cleanliness could better
+11/13/24,1,92,92,P002,G1022,"Photos were misleading, room was smaller.",photo misleading room smaller
+11/14/24,1,138,138,P002,G1022,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+11/15/24,1,200,200,P002,G1003,Host was very responsive and helpful!,host responsive helpful
+11/16/24,1,161,161,P002,G1003,"A perfect stay, felt like home!",perfect stay felt like home
+11/17/24,1,193,193,P002,G1003,"Loved the location, very convenient!",loved location convenient
+11/18/24,1,147,147,P002,G1003,Great value for the price!,great value price
+11/19/24,1,102,102,P002,G1003,Would definitely stay here again!,would definitely stay
+11/20/24,1,133,133,P002,G1049,"Excellent amenities, everything as described!",excellent amenity everything described
+11/21/24,0,140,0,P002,G0,,
+11/22/24,1,146,146,P002,G1042,"Great experience, would book again!",great experience would book
+11/23/24,1,157,157,P002,G1050,"Super cozy, highly recommend!",super cozy highly recommend
+11/24/24,1,141,141,P002,G1051,"Excellent amenities, everything as described!",excellent amenity everything described
+11/25/24,1,100,100,P002,G1051,Would definitely stay here again!,would definitely stay
+11/26/24,1,125,125,P002,G1051,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+11/27/24,1,136,136,P002,G1051,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+11/28/24,1,77,77,P002,G1051,Great value for the price!,great value price
+11/29/24,1,198,198,P002,G1051,Great value for the price!,great value price
+11/30/24,1,178,178,P002,G1052,Would definitely stay here again!,would definitely stay
+12/1/24,1,180,180,P002,G1011,"Excellent amenities, everything as described!",excellent amenity everything described
+12/2/24,0,102,0,P002,G0,,
+12/3/24,1,128,128,P002,G1028,"Super cozy, highly recommend!",super cozy highly recommend
+12/4/24,0,145,0,P002,G0,,
+12/5/24,1,147,147,P002,G1053,"Not worth the price, expected better.",worth price expected better
+12/6/24,1,210,210,P002,G1053,"Super cozy, highly recommend!",super cozy highly recommend
+12/7/24,1,186,186,P002,G1053,Would definitely stay here again!,would definitely stay
+12/8/24,1,188,188,P002,G1054,"Super cozy, highly recommend!",super cozy highly recommend
+12/9/24,1,84,84,P002,G1054,"Host was slow to respond, frustrating.",host slow respond frustrating
+12/10/24,1,76,76,P002,G1054,"I was really surprised when the host brought up a concern about pets. I personally didn’t think it would be an issue, but apparently, there was some misunderstanding. Not sure how it happened, but I was still asked about it, which made the experience a bit uncomfortable.",really surprised host brought concern pet personally think would issue apparently misunderstanding sure happened still asked made experience bit uncomfortable
+12/11/24,0,72,0,P002,G0,,
+12/12/24,1,88,88,P002,G1003,"Other than that, the place was fine, but I wish communication had been clearer.",place fine wish communication clearer
+12/13/24,1,133,133,P002,G1003,"Loved the location, very convenient!",loved location convenient
+12/14/24,1,138,138,P002,G1003,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/15/24,1,164,164,P002,G1003,"Too loud at night, difficult to sleep.",loud night difficult sleep
+12/16/24,1,132,132,P002,G1003,Great value for the price!,great value price
+12/17/24,1,74,74,P002,G1003,Would definitely stay here again!,would definitely stay
+12/18/24,1,147,147,P002,G1003,"Photos were misleading, room was smaller.",photo misleading room smaller
+12/19/24,1,114,114,P002,G1044,Great value for the price!,great value price
+12/20/24,1,177,177,P002,G1044,"Great experience, would book again!",great experience would book
+12/21/24,1,133,133,P002,G1044,"Not as expected, had some issues.",expected issue
+12/22/24,1,181,181,P002,G1044,Would definitely stay here again!,would definitely stay
+12/23/24,1,114,114,P002,G1055,Would definitely stay here again!,would definitely stay
+12/24/24,1,89,89,P002,G1055,"A perfect stay, felt like home!",perfect stay felt like home
+12/25/24,1,155,155,P002,G1031,Would definitely stay here again!,would definitely stay
+12/26/24,1,127,127,P002,G1031,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/27/24,1,200,200,P002,G1031,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+12/28/24,1,208,208,P002,G1031,"Excellent amenities, everything as described!",excellent amenity everything described
+12/29/24,1,139,139,P002,G1031,Great value for the price!,great value price
+12/30/24,1,77,77,P002,G1056,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/31/24,1,132,132,P002,G1056,Would definitely stay here again!,would definitely stay
+1/1/25,1,147,147,P002,G1056,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/2/25,1,83,83,P002,G1056,"A perfect stay, felt like home!",perfect stay felt like home
+1/3/25,1,145,145,P002,G1056,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+1/4/25,1,209,209,P002,G1056,"Not worth the price, expected better.",worth price expected better
+1/5/25,1,132,132,P002,G1056,"Super cozy, highly recommend!",super cozy highly recommend
+1/6/25,1,87,87,P002,G1056,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/7/25,1,127,127,P002,G1056,"Loved the location, very convenient!",loved location convenient
+1/8/25,1,140,140,P002,G1056,Great value for the price!,great value price
+1/9/25,1,89,89,P002,G1056,"I think there was a misunderstanding about the number of guests staying. I didn’t realize there were such strict limits, and the host seemed a bit upset about it. I totally respect the rules, but I wish this had been communicated more clearly upfront to avoid confusion.",think misunderstanding number guest staying realize strict limit host seemed bit upset totally respect rule wish communicated clearly upfront avoid confusion
+1/10/25,1,144,144,P002,G1057,,
+1/11/25,1,137,137,P002,G1057,"Besides that, the stay was pleasant, but I left feeling a little unfairly singled out.",besides stay pleasant left feeling little unfairly singled
+1/12/25,1,165,165,P002,G1058,"Loved the location, very convenient!",loved location convenient
+1/13/25,1,119,119,P002,G1058,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/14/25,1,146,146,P002,G1058,"Photos were misleading, room was smaller.",photo misleading room smaller
+1/15/25,1,110,110,P002,G1058,"Loved the location, very convenient!",loved location convenient
+1/16/25,1,138,138,P002,G1014,Host was very responsive and helpful!,host responsive helpful
+1/17/25,1,206,206,P002,G1014,"Loved the location, very convenient!",loved location convenient
+1/18/25,1,130,130,P002,G1014,"Excellent amenities, everything as described!",excellent amenity everything described
+1/19/25,1,151,151,P002,G1014,"A perfect stay, felt like home!",perfect stay felt like home
+1/20/25,1,152,152,P002,G1014,"Uncomfortable stay, wouldn't recommend.",uncomfortable stay would recommend
+1/21/25,1,80,80,P002,G1014,Great value for the price!,great value price
+1/22/25,1,157,157,P002,G1014,"Loved the location, very convenient!",loved location convenient
+1/23/25,1,102,102,P002,G1059,Would definitely stay here again!,would definitely stay
+1/24/25,1,156,156,P002,G1059,"Loved the location, very convenient!",loved location convenient
+1/25/25,1,203,203,P002,G1059,Host was very responsive and helpful!,host responsive helpful
+1/26/25,1,151,151,P002,G1060,"Great experience, would book again!",great experience would book
+1/27/25,0,76,0,P002,G0,,
+1/28/25,1,131,131,P002,G1061,Would definitely stay here again!,would definitely stay
+1/29/25,1,108,108,P002,G1061,"Excellent amenities, everything as described!",excellent amenity everything described
+1/30/25,1,139,139,P002,G1061,"The Airbnb itself was nice, but I was unfairly accused of smoking inside when I hadn’t. I respect house rules and was careful during my stay, so it was frustrating to be blamed for something I didn’t do.",airbnb nice unfairly accused smoking inside respect house rule careful stay frustrating blamed something
+1/31/25,1,194,194,P002,G1061,,
+2/1/25,0,180,0,P002,G0,"If the host had communicated better and handled the situation differently, this would have been a much better experience",host communicated better handled situation differently would much better experience
+8/5/24,1,110,110,P003,G1062,"Super cozy, highly recommend!",super cozy highly recommend
+8/6/24,1,81,81,P003,G1045,Host was very responsive and helpful!,host responsive helpful
+8/7/24,1,137,137,P003,G1045,"Great experience, would book again!",great experience would book
+8/8/24,1,119,119,P003,G1063,"Uncomfortable stay, wouldn't recommend.",uncomfortable stay would recommend
+8/9/24,1,175,175,P003,G1063,"Great experience, would book again!",great experience would book
+8/10/24,1,135,135,P003,G1063,"Super cozy, highly recommend!",super cozy highly recommend
+8/11/24,1,167,167,P003,G1063,Would definitely stay here again!,would definitely stay
+8/12/24,1,96,96,P003,G1064,"Loved the location, very convenient!",loved location convenient
+8/13/24,1,98,98,P003,G1064,"Loved the location, very convenient!",loved location convenient
+8/14/24,1,155,155,P003,G1064,"A perfect stay, felt like home!",perfect stay felt like home
+8/15/24,1,142,142,P003,G1065,Would definitely stay here again!,would definitely stay
+8/16/24,1,160,160,P003,G1035,"Not as expected, had some issues.",expected issue
+8/17/24,1,140,140,P003,G1035,Would definitely stay here again!,would definitely stay
+8/18/24,1,168,168,P003,G1066,"A perfect stay, felt like home!",perfect stay felt like home
+8/19/24,1,114,114,P003,G1066,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+8/20/24,1,122,122,P003,G1066,"Loved the location, very convenient!",loved location convenient
+8/21/24,1,103,103,P003,G1066,"Excellent amenities, everything as described!",excellent amenity everything described
+8/22/24,1,85,85,P003,G1066,"A perfect stay, felt like home!",perfect stay felt like home
+8/23/24,1,181,181,P003,G1066,"Great experience, would book again!",great experience would book
+8/24/24,1,159,159,P003,G1067,"Not worth the price, expected better.",worth price expected better
+8/25/24,1,164,164,P003,G1067,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/26/24,1,158,158,P003,G1054,Host was very responsive and helpful!,host responsive helpful
+8/27/24,1,74,74,P003,G1054,"Not worth the price, expected better.",worth price expected better
+8/28/24,1,155,155,P003,G1054,"I was really surprised when the host brought up a concern about pets. I personally didn’t think it would be an issue, but apparently, there was some misunderstanding. Not sure how it happened, but I was still asked about it, which made the experience a bit uncomfortable.",really surprised host brought concern pet personally think would issue apparently misunderstanding sure happened still asked made experience bit uncomfortable
+8/29/24,1,131,131,P003,G1068,,
+8/30/24,1,157,157,P003,G1068,"Other than that, the place was fine, but I wish communication had been clearer.",place fine wish communication clearer
+8/31/24,1,144,144,P003,G1068,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/1/24,1,172,172,P003,G1068,"Excellent amenities, everything as described!",excellent amenity everything described
+9/2/24,1,133,133,P003,G1068,"Loved the location, very convenient!",loved location convenient
+9/3/24,1,161,161,P003,G1068,Great value for the price!,great value price
+9/4/24,1,144,144,P003,G1068,"Excellent amenities, everything as described!",excellent amenity everything described
+9/5/24,1,101,101,P003,G1068,Would definitely stay here again!,would definitely stay
+9/6/24,1,140,140,P003,G1068,"Amenities were lacking, expected more.",amenity lacking expected
+9/7/24,1,146,146,P003,G1068,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/8/24,1,130,130,P003,G1016,"Uncomfortable stay, wouldn't recommend.",uncomfortable stay would recommend
+9/9/24,1,146,146,P003,G1016,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+9/10/24,1,141,141,P003,G1044,"Photos were misleading, room was smaller.",photo misleading room smaller
+9/11/24,1,131,131,P003,G1044,"Excellent amenities, everything as described!",excellent amenity everything described
+9/12/24,1,107,107,P003,G1044,"Excellent amenities, everything as described!",excellent amenity everything described
+9/13/24,1,180,180,P003,G1044,"Great experience, would book again!",great experience would book
+9/14/24,1,168,168,P003,G1044,"Super cozy, highly recommend!",super cozy highly recommend
+9/15/24,1,133,133,P003,G1044,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/16/24,1,150,150,P003,G1044,"Super cozy, highly recommend!",super cozy highly recommend
+9/17/24,1,115,115,P003,G1044,"Great experience, would book again!",great experience would book
+9/18/24,1,144,144,P003,G1044,"Great experience, would book again!",great experience would book
+9/19/24,1,164,164,P003,G1020,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/20/24,1,194,194,P003,G1020,Great value for the price!,great value price
+9/21/24,1,131,131,P003,G1020,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/22/24,1,180,180,P003,G1069,Great value for the price!,great value price
+9/23/24,1,105,105,P003,G1070,Great value for the price!,great value price
+9/24/24,1,139,139,P003,G1004,Great value for the price!,great value price
+9/25/24,1,141,141,P003,G1071,Great value for the price!,great value price
+9/26/24,1,164,164,P003,G1071,"A perfect stay, felt like home!",perfect stay felt like home
+9/27/24,1,169,169,P003,G1071,"Super cozy, highly recommend!",super cozy highly recommend
+9/28/24,1,149,149,P003,G1071,"A perfect stay, felt like home!",perfect stay felt like home
+9/29/24,1,153,153,P003,G1026,"Excellent amenities, everything as described!",excellent amenity everything described
+9/30/24,1,147,147,P003,G1058,"Excellent amenities, everything as described!",excellent amenity everything described
+10/1/24,1,93,93,P003,G1058,Would definitely stay here again!,would definitely stay
+10/2/24,1,169,169,P003,G1007,"Excellent amenities, everything as described!",excellent amenity everything described
+10/3/24,0,95,0,P003,G0,,
+10/4/24,1,153,153,P003,G1072,"Super cozy, highly recommend!",super cozy highly recommend
+10/5/24,1,181,181,P003,G1072,Would definitely stay here again!,would definitely stay
+10/6/24,1,158,158,P003,G1072,"Super cozy, highly recommend!",super cozy highly recommend
+10/7/24,0,145,0,P003,G0,,
+10/8/24,0,74,0,P003,G0,,
+10/9/24,1,96,96,P003,G1050,Would definitely stay here again!,would definitely stay
+10/10/24,1,117,117,P003,G1050,"Excellent amenities, everything as described!",excellent amenity everything described
+10/11/24,1,146,146,P003,G1050,"Super cozy, highly recommend!",super cozy highly recommend
+10/12/24,1,184,184,P003,G1073,"Excellent amenities, everything as described!",excellent amenity everything described
+10/13/24,1,162,162,P003,G1073,"Great experience, would book again!",great experience would book
+10/14/24,1,97,97,P003,G1073,"The host was extremely particular about small details, which made things a little stressful. I was careful during my stay, but it seems like even the slightest thing out of place became a major issue. I’ve never had a problem at other Airbnbs, so I’m not sure why it was such a big deal here.",host extremely particular small detail made thing little stressful careful stay seems like even slightest thing place became major issue never problem airbnbs sure big deal
+10/15/24,1,85,85,P003,G1074,,
+10/16/24,1,148,148,P003,G1075,"The space was comfortable, but I wouldn’t recommend staying here if you don’t want to be nitpicked over minor things.",space comfortable recommend staying want nitpicked minor thing
+10/17/24,1,79,79,P003,G1037,Would definitely stay here again!,would definitely stay
+10/18/24,1,146,146,P003,G1076,"A perfect stay, felt like home!",perfect stay felt like home
+10/19/24,1,143,143,P003,G1076,"Loved the location, very convenient!",loved location convenient
+10/20/24,0,176,0,P003,G0,,
+10/21/24,1,105,105,P003,G1008,"Great experience, would book again!",great experience would book
+10/22/24,1,89,89,P003,G1008,"Super cozy, highly recommend!",super cozy highly recommend
+10/23/24,1,72,72,P003,G1008,Great value for the price!,great value price
+10/24/24,1,96,96,P003,G1077,Great value for the price!,great value price
+10/25/24,1,144,144,P003,G1077,The cleanliness could have been better.,cleanliness could better
+10/26/24,1,195,195,P003,G1024,"A perfect stay, felt like home!",perfect stay felt like home
+10/27/24,1,168,168,P003,G1078,"Excellent amenities, everything as described!",excellent amenity everything described
+10/28/24,1,126,126,P003,G1079,"Super cozy, highly recommend!",super cozy highly recommend
+10/29/24,1,99,99,P003,G1079,"My experience at this Airbnb was disappointing. I was unexpectedly asked to leave because I had supposedly overstayed, but the checkout time was never clearly communicated. I would have happily left on time if I had been informed properly.",experience airbnb disappointing unexpectedly asked leave supposedly overstayed checkout time never clearly communicated would happily left time informed properly
+10/30/24,1,92,92,P003,G1079,,
+10/31/24,0,120,0,P003,G0,"Additionally, there were noise complaints from the neighbors, but I wasn’t even responsible for any noise. I kept to myself and was out for most of my stay, so this felt unfair. While the place itself was decent, the lack of clear communication and the false accusations left a bad impression.",additionally noise complaint neighbor even responsible noise kept stay felt unfair place decent lack clear communication false accusation left bad impression
+11/1/24,1,151,151,P003,G1080,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+11/2/24,1,195,195,P003,G1080,Great value for the price!,great value price
+11/3/24,1,159,159,P003,G1052,"A perfect stay, felt like home!",perfect stay felt like home
+11/4/24,0,109,0,P003,G0,,
+11/5/24,0,121,0,P003,G0,,
+11/6/24,1,78,78,P003,G1049,"Loved the location, very convenient!",loved location convenient
+11/7/24,0,77,0,P003,G0,,
+11/8/24,1,153,153,P003,G1081,"Great experience, would book again!",great experience would book
+11/9/24,1,164,164,P003,G1025,Great value for the price!,great value price
+11/10/24,1,169,169,P003,G1025,Would definitely stay here again!,would definitely stay
+11/11/24,1,170,170,P003,G1025,"Great experience, would book again!",great experience would book
+11/12/24,1,139,139,P003,G1025,"Loved the location, very convenient!",loved location convenient
+11/13/24,1,128,128,P003,G1025,Great value for the price!,great value price
+11/14/24,1,97,97,P003,G1082,"Excellent amenities, everything as described!",excellent amenity everything described
+11/15/24,1,131,131,P003,G1083,"A perfect stay, felt like home!",perfect stay felt like home
+11/16/24,1,186,186,P003,G1084,"Photos were misleading, room was smaller.",photo misleading room smaller
+11/17/24,1,142,142,P003,G1084,"Loved the location, very convenient!",loved location convenient
+11/18/24,1,98,98,P003,G1084,Host was very responsive and helpful!,host responsive helpful
+11/19/24,0,140,0,P003,G0,,
+11/20/24,1,141,141,P003,G1020,"Excellent amenities, everything as described!",excellent amenity everything described
+11/21/24,1,120,120,P003,G1020,Host was very responsive and helpful!,host responsive helpful
+11/22/24,1,156,156,P003,G1020,Would definitely stay here again!,would definitely stay
+11/23/24,1,208,208,P003,G1085,"Super cozy, highly recommend!",super cozy highly recommend
+11/24/24,1,204,204,P003,G1085,"Loved the location, very convenient!",loved location convenient
+11/25/24,1,117,117,P003,G1086,Could have been a better experience.,could better experience
+11/26/24,1,156,156,P003,G1057,"Excellent amenities, everything as described!",excellent amenity everything described
+11/27/24,1,132,132,P003,G1057,"Super cozy, highly recommend!",super cozy highly recommend
+11/28/24,0,78,0,P003,G0,,
+11/29/24,1,151,151,P003,G1087,"Super cozy, highly recommend!",super cozy highly recommend
+11/30/24,1,188,188,P003,G1087,"Great experience, would book again!",great experience would book
+12/1/24,0,188,0,P003,G0,,
+12/2/24,1,133,133,P003,G1088,"Great experience, would book again!",great experience would book
+12/3/24,1,150,150,P003,G1085,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/4/24,0,100,0,P003,G0,,
+12/5/24,1,153,153,P003,G1089,"Super cozy, hiI was caught off guard when the host accused me of having a pet. I was shocked because I had no idea where that came from. It felt unfair to be questioned like that when I was just trying to enjoy my stay.
+
+The place itself was decent, but being put in that situation definitely made things stressful.ghly recommend!",super cozy hii caught guard host accused pet shocked idea came felt unfair questioned like trying enjoy stay place decent put situation definitely made thing recommend
+12/6/24,1,136,136,P003,G1005,"Great experience, would book again!",great experience would book
+12/7/24,0,177,0,P003,G0,,
+12/8/24,1,165,165,P003,G1090,"Great experience, would book again!",great experience would book
+12/9/24,1,75,75,P003,G1090,Would definitely stay here again!,would definitely stay
+12/10/24,1,106,106,P003,G1091,Great value for the price!,great value price
+12/11/24,1,95,95,P003,G1092,"A perfect stay, felt like home!",perfect stay felt like home
+12/12/24,1,75,75,P003,G1060,Great value for the price!,great value price
+12/13/24,1,144,144,P003,G1060,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/14/24,1,188,188,P003,G1060,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/15/24,1,170,170,P003,G1060,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+12/16/24,1,95,95,P003,G1060,Host was very responsive and helpful!,host responsive helpful
+12/17/24,1,71,71,P003,G1093,"Great experience, would book again!",great experience would book
+12/18/24,0,108,0,P003,G0,,
+12/19/24,1,165,165,P003,G1094,"Loved the location, very convenient!",loved location convenient
+12/20/24,0,198,0,P003,G0,,
+12/21/24,1,199,199,P003,G1095,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/22/24,1,134,134,P003,G1095,"A perfect stay, felt like home!",perfect stay felt like home
+12/23/24,1,83,83,P003,G1002,Host was very responsive and helpful!,host responsive helpful
+12/24/24,1,152,152,P003,G1002,Great value for the price!,great value price
+12/25/24,1,145,145,P003,G1002,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+12/26/24,1,113,113,P003,G1096,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/27/24,1,168,168,P003,G1096,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/28/24,1,174,174,P003,G1096,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+12/29/24,1,192,192,P003,G1096,"Great experience, would book again!",great experience would book
+12/30/24,0,140,0,P003,G0,,
+12/31/24,0,119,0,P003,G0,,
+1/1/25,1,80,80,P003,G1065,"Photos were misleading, room was smaller.",photo misleading room smaller
+1/2/25,1,158,158,P003,G1018,"Not as expected, had some issues.",expected issue
+1/3/25,0,183,0,P003,G0,,
+1/4/25,1,199,199,P003,G1030,The cleanliness could have been better.,cleanliness could better
+1/5/25,1,179,179,P003,G1097,Host was very responsive and helpful!,host responsive helpful
+1/6/25,1,139,139,P003,G1097,"A perfect stay, felt like home!",perfect stay felt like home
+1/7/25,1,105,105,P003,G1097,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+1/8/25,1,88,88,P003,G1079,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/9/25,1,74,74,P003,G1079,"A perfect stay, felt like home!",perfect stay felt like home
+1/10/25,1,162,162,P003,G1079,"Loved the location, very convenient!",loved location convenient
+1/11/25,1,205,205,P003,G1003,"Photos were misleading, room was smaller.",photo misleading room smaller
+1/12/25,1,147,147,P003,G1003,"A perfect stay, felt like home!",perfect stay felt like home
+1/13/25,1,133,133,P003,G1003,Host was very responsive and helpful!,host responsive helpful
+1/14/25,1,94,94,P003,G1098,Would definitely stay here again!,would definitely stay
+1/15/25,1,152,152,P003,G1098,"Super cozy, highly recommend!",super cozy highly recommend
+1/16/25,1,74,74,P003,G1098,"Loved the location, very convenient!",loved location convenient
+1/17/25,1,176,176,P003,G1098,Host was very responsive and helpful!,host responsive helpful
+1/18/25,1,176,176,P003,G1098,"Loved the location, very convenient!",loved location convenient
+1/19/25,1,207,207,P003,G1098,Would definitely stay here again!,would definitely stay
+1/20/25,1,160,160,P003,G1098,"Excellent amenities, everything as described!",excellent amenity everything described
+1/21/25,1,132,132,P003,G1098,"Super cozy, highly recommend!",super cozy highly recommend
+1/22/25,1,97,97,P003,G1099,"A perfect stay, felt like home!",perfect stay felt like home
+1/23/25,1,167,167,P003,G1086,Host was very responsive and helpful!,host responsive helpful
+1/24/25,1,133,133,P003,G1086,Would definitely stay here again!,would definitely stay
+1/25/25,0,146,0,P003,G0,,
+1/26/25,1,204,204,P003,G1088,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+1/27/25,0,84,0,P003,G0,,
+1/28/25,1,75,75,P003,G1014,Host was very responsive and helpful!,host responsive helpful
+1/29/25,0,122,0,P003,G0,,
+1/30/25,0,155,0,P003,G0,,
+1/31/25,1,155,155,P003,G1023,Great value for the price!,great value price
+2/1/25,1,168,168,P003,G1023,Would definitely stay here again!,would definitely stay
+8/5/24,1,80,80,P004,G1100,"Amenities were lacking, expected more.",amenity lacking expected
+8/6/24,1,127,127,P004,G1100,Great value for the price!,great value price
+8/7/24,1,80,80,P004,G1100,"Excellent amenities, everything as described!",excellent amenity everything described
+8/8/24,1,164,164,P004,G1055,"Excellent amenities, everything as described!",excellent amenity everything described
+8/9/24,1,151,151,P004,G1008,"A perfect stay, felt like home!",perfect stay felt like home
+8/10/24,1,193,193,P004,G1008,"Excellent amenities, everything as described!",excellent amenity everything described
+8/11/24,1,192,192,P004,G1101,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+8/12/24,1,126,126,P004,G1101,Great value for the price!,great value price
+8/13/24,1,88,88,P004,G1101,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/14/24,1,131,131,P004,G1101,"A perfect stay, felt like home!",perfect stay felt like home
+8/15/24,1,71,71,P004,G1102,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/16/24,1,199,199,P004,G1103,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/17/24,1,195,195,P004,G1103,Great value for the price!,great value price
+8/18/24,1,169,169,P004,G1103,"Great experience, would book again!",great experience would book
+8/19/24,1,93,93,P004,G1103,"Excellent amenities, everything as described!",excellent amenity everything described
+8/20/24,1,135,135,P004,G1103,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/21/24,1,123,123,P004,G1103,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+8/22/24,1,147,147,P004,G1103,"Super cozy, highly recommend!",super cozy highly recommend
+8/23/24,1,198,198,P004,G1103,"Loved the location, very convenient!",loved location convenient
+8/24/24,1,136,136,P004,G1103,"Loved the location, very convenient!",loved location convenient
+8/25/24,1,172,172,P004,G1103,"A perfect stay, felt like home!",perfect stay felt like home
+8/26/24,1,161,161,P004,G1103,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+8/27/24,1,130,130,P004,G1103,The cleanliness could have been better.,cleanliness could better
+8/28/24,0,122,0,P004,G0,,
+8/29/24,1,156,156,P004,G1104,Host was very responsive and helpful!,host responsive helpful
+8/30/24,1,162,162,P004,G1105,"Excellent amenities, everything as described!",excellent amenity everything described
+8/31/24,1,160,160,P004,G1106,Great value for the price!,great value price
+9/1/24,1,131,131,P004,G1107,Host was very responsive and helpful!,host responsive helpful
+9/2/24,1,110,110,P004,G1107,"Excellent amenities, everything as described!",excellent amenity everything described
+9/3/24,1,94,94,P004,G1107,"Excellent amenities, everything as described!",excellent amenity everything described
+9/4/24,1,136,136,P004,G1108,"Loved the location, very convenient!",loved location convenient
+9/5/24,1,169,169,P004,G1108,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/6/24,1,208,208,P004,G1108,"Super cozy, highly recommend!",super cozy highly recommend
+9/7/24,1,181,181,P004,G1109,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/8/24,1,197,197,P004,G1109,"A perfect stay, felt like home!",perfect stay felt like home
+9/9/24,1,75,75,P004,G1109,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/10/24,1,86,86,P004,G1109,"Super cozy, highly recommend!",super cozy highly recommend
+9/11/24,1,78,78,P004,G1110,Would definitely stay here again!,would definitely stay
+9/12/24,0,150,0,P004,G0,,
+9/13/24,1,206,206,P004,G1023,Great value for the price!,great value price
+9/14/24,1,136,136,P004,G1023,"A perfect stay, felt like home!",perfect stay felt like home
+9/15/24,1,142,142,P004,G1023,Great value for the price!,great value price
+9/16/24,1,93,93,P004,G1023,Great value for the price!,great value price
+9/17/24,1,168,168,P004,G1111,Great value for the price!,great value price
+9/18/24,1,156,156,P004,G1111,"Great experience, would book again!",great experience would book
+9/19/24,1,123,123,P004,G1111,Host was very responsive and helpful!,host responsive helpful
+9/20/24,1,158,158,P004,G1111,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/21/24,1,185,185,P004,G1111,"A perfect stay, felt like home!",perfect stay felt like home
+9/22/24,1,132,132,P004,G1111,Great value for the price!,great value price
+9/23/24,1,155,155,P004,G1112,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/24/24,1,94,94,P004,G1112,"Great experience, would book again!",great experience would book
+9/25/24,1,160,160,P004,G1112,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/26/24,1,154,154,P004,G1095,"Loved the location, very convenient!",loved location convenient
+9/27/24,1,186,186,P004,G1095,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/28/24,0,147,0,P004,G0,,
+9/29/24,0,165,0,P004,G0,,
+9/30/24,1,121,121,P004,G1113,Could have been a better experience.,could better experience
+10/1/24,1,93,93,P004,G1113,Would definitely stay here again!,would definitely stay
+10/2/24,1,118,118,P004,G1113,Host was very responsive and helpful!,host responsive helpful
+10/3/24,1,148,148,P004,G1113,"Excellent amenities, everything as described!",excellent amenity everything described
+10/4/24,1,194,194,P004,G1068,Would definitely stay here again!,would definitely stay
+10/5/24,1,171,171,P004,G1068,Host was very responsive and helpful!,host responsive helpful
+10/6/24,1,205,205,P004,G1026,Host was very responsive and helpful!,host responsive helpful
+10/7/24,1,102,102,P004,G1026,Great value for the price!,great value price
+10/8/24,1,139,139,P004,G1114,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+10/9/24,1,162,162,P004,G1114,"Loved the location, very convenient!",loved location convenient
+10/10/24,1,136,136,P004,G1114,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+10/11/24,1,135,135,P004,G1114,"Great experience, would book again!",great experience would book
+10/12/24,1,130,130,P004,G1107,"Loved the location, very convenient!",loved location convenient
+10/13/24,1,184,184,P004,G1107,Host was very responsive and helpful!,host responsive helpful
+10/14/24,1,79,79,P004,G1107,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+10/15/24,1,135,135,P004,G1107,"Excellent amenities, everything as described!",excellent amenity everything described
+10/16/24,1,167,167,P004,G1064,Could have been a better experience.,could better experience
+10/17/24,1,164,164,P004,G1064,Host was very responsive and helpful!,host responsive helpful
+10/18/24,1,173,173,P004,G1064,"A perfect stay, felt like home!",perfect stay felt like home
+10/19/24,1,189,189,P004,G1064,"Not as expected, had some issues.",expected issue
+10/20/24,1,154,154,P004,G1064,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+10/21/24,1,109,109,P004,G1035,"Excellent amenities, everything as described!",excellent amenity everything described
+10/22/24,1,91,91,P004,G1115,"Super cozy, highly recommend!",super cozy highly recommend
+10/23/24,1,73,73,P004,G1066,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+10/24/24,1,93,93,P004,G1066,"Super cozy, highly recommend!",super cozy highly recommend
+10/25/24,1,178,178,P004,G1034,"Great experience, would book again!",great experience would book
+10/26/24,1,165,165,P004,G1116,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+10/27/24,0,148,0,P004,G0,,
+10/28/24,1,77,77,P004,G1098,"Uncomfortable stay, wouldn't recommend.",uncomfortable stay would recommend
+10/29/24,1,110,110,P004,G1098,The cleanliness could have been better.,cleanliness could better
+10/30/24,1,133,133,P004,G1117,"Great experience, would book again!",great experience would book
+10/31/24,1,148,148,P004,G1117,"Loved the location, very convenient!",loved location convenient
+11/1/24,1,189,189,P004,G1117,Host was very responsive and helpful!,host responsive helpful
+11/2/24,1,189,189,P004,G1117,"Amenities were lacking, expected more.",amenity lacking expected
+11/3/24,0,202,0,P004,G0,,
+11/4/24,1,70,70,P004,G1065,Great value for the price!,great value price
+11/5/24,1,149,149,P004,G1065,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+11/6/24,1,156,156,P004,G1065,"Loved the location, very convenient!",loved location convenient
+11/7/24,1,139,139,P004,G1029,"A perfect stay, felt like home!",perfect stay felt like home
+11/8/24,1,163,163,P004,G1029,"Super cozy, highly recommend!",super cozy highly recommend
+11/9/24,1,181,181,P004,G1029,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+11/10/24,1,131,131,P004,G1118,Host was very responsive and helpful!,host responsive helpful
+11/11/24,0,157,0,P004,G0,,
+11/12/24,1,119,119,P004,G1066,"Excellent amenities, everything as described!",excellent amenity everything described
+11/13/24,1,140,140,P004,G1119,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+11/14/24,1,167,167,P004,G1119,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+11/15/24,0,184,0,P004,G0,,
+11/16/24,1,130,130,P004,G1117,"Photos were misleading, room was smaller.",photo misleading room smaller
+11/17/24,1,163,163,P004,G1117,Would definitely stay here again!,would definitely stay
+11/18/24,1,127,127,P004,G1117,"Excellent amenities, everything as described!",excellent amenity everything described
+11/19/24,1,128,128,P004,G1117,Host was very responsive and helpful!,host responsive helpful
+11/20/24,1,88,88,P004,G1117,"Excellent amenities, everything as described!",excellent amenity everything described
+11/21/24,1,144,144,P004,G1117,Would definitely stay here again!,would definitely stay
+11/22/24,1,162,162,P004,G1117,"Too loud at night, difficult to sleep.",loud night difficult sleep
+11/23/24,1,144,144,P004,G1117,"A perfect stay, felt like home!",perfect stay felt like home
+11/24/24,1,210,210,P004,G1117,"Super cozy, highly recommend!",super cozy highly recommend
+11/25/24,1,91,91,P004,G1117,Great value for the price!,great value price
+11/26/24,0,72,0,P004,G0,,
+11/27/24,1,150,150,P004,G1004,"Host was slow to respond, frustrating.",host slow respond frustrating
+11/28/24,0,163,0,P004,G0,,
+11/29/24,1,159,159,P004,G1070,"Super cozy, highly recommend!",super cozy highly recommend
+11/30/24,1,162,162,P004,G1070,Great value for the price!,great value price
+12/1/24,1,155,155,P004,G1070,"Loved the location, very convenient!",loved location convenient
+12/2/24,1,129,129,P004,G1070,"A perfect stay, felt like home!",perfect stay felt like home
+12/3/24,1,83,83,P004,G1070,"Super cozy, highly recommend!",super cozy highly recommend
+12/4/24,1,167,167,P004,G1070,Would definitely stay here again!,would definitely stay
+12/5/24,1,97,97,P004,G1118,"Loved the location, very convenient!",loved location convenient
+12/6/24,1,142,142,P004,G1118,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/7/24,0,157,0,P004,G0,,
+12/8/24,1,131,131,P004,G1120,"I was really surprised when the host brought up a concern about pets. I personally didn’t think it would be an issue, but apparently, there was some misunderstanding. Not sure how it happened, but I was still asked about it, which made the experience a bit uncomfortable.",really surprised host brought concern pet personally think would issue apparently misunderstanding sure happened still asked made experience bit uncomfortable
+12/9/24,1,137,137,P004,G1078,,
+12/10/24,1,140,140,P004,G1078,"Other than that, the place was fine, but I wish communication had been clearer.",place fine wish communication clearer
+12/11/24,1,136,136,P004,G1078,Host was very responsive and helpful!,host responsive helpful
+12/12/24,1,77,77,P004,G1121,"Loved the location, very convenient!",loved location convenient
+12/13/24,1,175,175,P004,G1056,"Not worth the price, expected better.",worth price expected better
+12/14/24,1,176,176,P004,G1056,Host was very responsive and helpful!,host responsive helpful
+12/15/24,1,203,203,P004,G1056,"Super cozy, highly recommend!",super cozy highly recommend
+12/16/24,1,82,82,P004,G1056,"Loved the location, very conveniI felt a little uncomfortable with how strict the host was about guests and noise. I had some friends stop by, and suddenly it became an issue even though we weren’t being disruptive. I understand wanting to enforce rules, but it felt a bit excessive.
+
+The property itself was great, but if you’re looking for a place where you can relax without feeling watched, this might not be the best option.ent!",loved location convenii felt little uncomfortable strict host guest noise friend stop suddenly became issue even though disruptive understand wanting enforce rule felt bit excessive property great looking place relax without feeling watched might best
+12/17/24,1,149,149,P004,G1122,"Loved the location, very convenient!",loved location convenient
+12/18/24,1,133,133,P004,G1122,Would definitely stay here again!,would definitely stay
+12/19/24,1,157,157,P004,G1122,"Great experience, would book again!",great experience would book
+12/20/24,1,209,209,P004,G1068,Would definitely stay here again!,would definitely stay
+12/21/24,1,209,209,P004,G1068,"Loved the location, very convenient!",loved location convenient
+12/22/24,1,191,191,P004,G1105,Great value for the price!,great value price
+12/23/24,1,162,162,P004,G1105,Great value for the price!,great value price
+12/24/24,1,97,97,P004,G1105,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+12/25/24,1,145,145,P004,G1105,"Super cozy, highly recommend!",super cozy highly recommend
+12/26/24,1,126,126,P004,G1105,Host was very responsive and helpful!,host responsive helpful
+12/27/24,1,186,186,P004,G1105,"Excellent amenities, everything as described!",excellent amenity everything described
+12/28/24,1,156,156,P004,G1105,"Excellent amenities, everything as described!",excellent amenity everything described
+12/29/24,1,161,161,P004,G1105,Host was very responsive and helpful!,host responsive helpful
+12/30/24,1,125,125,P004,G1105,"Super cozy, highly recommend!",super cozy highly recommend
+12/31/24,1,109,109,P004,G1105,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/1/25,0,103,0,P004,G0,,
+1/2/25,1,129,129,P004,G1046,"Excellent amenities, everything as described!",excellent amenity everything described
+1/3/25,1,185,185,P004,G1046,"Loved the location, very convenient!",loved location convenient
+1/4/25,1,205,205,P004,G1046,"Super cozy, highly recommend!",super cozy highly recommend
+1/5/25,1,131,131,P004,G1046,Would definitely stay here again!,would definitely stay
+1/6/25,1,119,119,P004,G1046,"Excellent amenities, everything as described!",excellent amenity everything described
+1/7/25,1,113,113,P004,G1046,Great value for the price!,great value price
+1/8/25,1,99,99,P004,G1046,"A perfect stay, felt like home!",perfect stay felt like home
+1/9/25,1,170,170,P004,G1046,Host was very responsive and helpful!,host responsive helpful
+1/10/25,1,209,209,P004,G1046,Great value for the price!,great value price
+1/11/25,1,137,137,P004,G1019,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/12/25,1,146,146,P004,G1019,"A perfect stay, felt like home!",perfect stay felt like home
+1/13/25,1,154,154,P004,G1032,"A perfect stay, felt like home!",perfect stay felt like home
+1/14/25,1,159,159,P004,G1053,"A perfect stay, felt like home!",perfect stay felt like home
+1/15/25,1,121,121,P004,G1053,"Loved the location, very convenient!",loved location convenient
+1/16/25,1,100,100,P004,G1053,"Great experience, would book again!",great experience would book
+1/17/25,1,145,145,P004,G1050,"Loved the location, very convenient!",loved location convenient
+1/18/25,1,130,130,P004,G1050,"Great experience, would book again!",great experience would book
+1/19/25,1,183,183,P004,G1123,"Super cozy, highly recommend!",super cozy highly recommend
+1/20/25,1,137,137,P004,G1028,"Loved the location, very convenient!",loved location convenient
+1/21/25,1,151,151,P004,G1124,"A perfect stay, felt like home!",perfect stay felt like home
+1/22/25,1,129,129,P004,G1124,"Super cozy, highly recommend!",super cozy highly recommend
+1/23/25,1,140,140,P004,G1069,Great value for the price!,great value price
+1/24/25,1,186,186,P004,G1125,"A perfect stay, felt like home!",perfect stay felt like home
+1/25/25,1,155,155,P004,G1125,"Super cozy, highly recommend!",super cozy highly recommend
+1/26/25,1,186,186,P004,G1125,Would definitely stay here again!,would definitely stay
+1/27/25,1,98,98,P004,G1125,Great value for the price!,great value price
+1/28/25,1,147,147,P004,G1125,"Loved the location, very convenient!",loved location convenient
+1/29/25,1,136,136,P004,G1125,"Uncomfortable stay, wouldn't recommend.",uncomfortable stay would recommend
+1/30/25,1,88,88,P004,G1125,Would definitely stay here again!,would definitely stay
+1/31/25,1,200,200,P004,G1125,Would definitely stay here again!,would definitely stay
+2/1/25,1,177,177,P004,G1046,"Excellent amenities, everything as described!",excellent amenity everything described
+8/5/24,1,89,89,P005,G1126,Great value for the price!,great value price
+8/6/24,1,102,102,P005,G1127,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.",falsely accused smoking airbnb extremely frustrating since even smoke host jumped conclusion without evidence making whole situation stressful
+8/7/24,1,98,98,P005,G1113,,
+8/8/24,1,96,96,P005,G1113,"The place was fine, but the false accusation ruined my experience. I wouldn’t stay here again.",place fine false accusation ruined experience stay
+8/9/24,1,199,199,P005,G1128,Host was very responsive and helpful!,host responsive helpful
+8/10/24,1,163,163,P005,G1128,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/11/24,1,170,170,P005,G1128,"Great experience, would book again!",great experience would book
+8/12/24,1,123,123,P005,G1128,Host was very responsive and helpful!,host responsive helpful
+8/13/24,1,136,136,P005,G1128,"A perfect stay, felt like home!",perfect stay felt like home
+8/14/24,1,94,94,P005,G1013,"Great experience, would book again!",great experience would book
+8/15/24,1,163,163,P005,G1013,Would definitely stay here again!,would definitely stay
+8/16/24,1,172,172,P005,G1013,Great value for the price!,great value price
+8/17/24,1,180,180,P005,G1013,"Loved the location, very convenient!",loved location convenient
+8/18/24,1,144,144,P005,G1129,"Great experience, would book again!",great experience would book
+8/19/24,1,141,141,P005,G1130,"Loved the location, very convenient!",loved location convenient
+8/20/24,1,167,167,P005,G1106,Great value for the price!,great value price
+8/21/24,1,124,124,P005,G1106,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/22/24,1,85,85,P005,G1106,"Super cozy, highly recommend!",super cozy highly recommend
+8/23/24,1,171,171,P005,G1106,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+8/24/24,1,210,210,P005,G1106,Great value for the price!,great value price
+8/25/24,1,180,180,P005,G1021,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+8/26/24,1,162,162,P005,G1021,"Loved the location, very convenient!",loved location convenient
+8/27/24,1,126,126,P005,G1131,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+8/28/24,1,154,154,P005,G1131,"Great experience, would book again!",great experience would book
+8/29/24,0,74,0,P005,G0,,
+8/30/24,1,185,185,P005,G1079,"Super cozy, highly recommend!",super cozy highly recommend
+8/31/24,1,149,149,P005,G1079,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/1/24,1,207,207,P005,G1079,"Loved the location, very convenient!",loved location convenient
+9/2/24,1,87,87,P005,G1079,"Loved the location, very convenient!",loved location convenient
+9/3/24,1,151,151,P005,G1079,"Not a great experience. I got kicked out because the host claimed I overstayed, but I was never told the exact checkout time! On top of that, the neighbors complained about noise, but I wasn’t even making any.",great experience got kicked host claimed overstayed never told exact checkout time top neighbor complained noise even making
+9/4/24,1,92,92,P005,G1079,,
+9/5/24,1,135,135,P005,G1132,"The place was okay, but the poor communication and false accusations made it a stressful stay. Wouldn’t recommend.",place okay poor communication false accusation made stressful stay recommend
+9/6/24,1,148,148,P005,G1132,"Photos were misleading, room was smaller.",photo misleading room smaller
+9/7/24,1,206,206,P005,G1132,"Loved the location, very convenient!",loved location convenient
+9/8/24,1,145,145,P005,G1132,"Photos were misleading, room was smaller.",photo misleading room smaller
+9/9/24,0,149,0,P005,G0,,
+9/10/24,1,72,72,P005,G1133,"Not worth the price, expected better.",worth price expected better
+9/11/24,0,146,0,P005,G0,,
+9/12/24,1,126,126,P005,G1134,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+9/13/24,1,170,170,P005,G1134,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+9/14/24,1,164,164,P005,G1134,"Great experience, would book again!",great experience would book
+9/15/24,1,179,179,P005,G1003,Great value for the price!,great value price
+9/16/24,1,74,74,P005,G1003,"Excellent amenities, everything as described!",excellent amenity everything described
+9/17/24,1,95,95,P005,G1135,Would definitely stay here again!,would definitely stay
+9/18/24,1,170,170,P005,G1136,Would definitely stay here again!,would definitely stay
+9/19/24,0,100,0,P005,G0,,
+9/20/24,0,173,0,P005,G0,,
+9/21/24,1,151,151,P005,G1007,"I was falsely accused of smoking in the Airbnb, which was extremely frustrating since I don’t even smoke. The host jumped to conclusions without any evidence, making the whole situation stressful.",falsely accused smoking airbnb extremely frustrating since even smoke host jumped conclusion without evidence making whole situation stressful
+9/22/24,1,182,182,P005,G1137,,
+9/23/24,1,133,133,P005,G1137,"The place was fine, but the false accusation ruined my experience. I wouldn’t stay here again.",place fine false accusation ruined experience stay
+9/24/24,1,124,124,P005,G1137,Would definitely stay here again!,would definitely stay
+9/25/24,1,160,160,P005,G1138,"Excellent amenities, everything as described!",excellent amenity everything described
+9/26/24,1,168,168,P005,G1138,"Amenities were lacking, expected more.",amenity lacking expected
+9/27/24,1,182,182,P005,G1138,"Host was slow to respond, frustrating.",host slow respond frustrating
+9/28/24,1,202,202,P005,G1139,"A perfect stay, felt like home!",perfect stay felt like home
+9/29/24,1,152,152,P005,G1140,Great value for the price!,great value price
+9/30/24,1,138,138,P005,G1140,Would definitely stay here again!,would definitely stay
+10/1/24,1,145,145,P005,G1140,"Super cozy, highly recommend!",super cozy highly recommend
+10/2/24,1,124,124,P005,G1141,"Loved the location, very convenient!",loved location convenient
+10/3/24,1,121,121,P005,G1141,"Loved the location, very convenient!",loved location convenient
+10/4/24,1,206,206,P005,G1141,"Loved the location, very convenient!",loved location convenient
+10/5/24,1,133,133,P005,G1141,"Super cozy, highly recommend!",super cozy highly recommend
+10/6/24,1,145,145,P005,G1141,Host was very responsive and helpful!,host responsive helpful
+10/7/24,1,117,117,P005,G1079,Would definitely stay here again!,would definitely stay
+10/8/24,1,84,84,P005,G1079,"Loved the location, very convenient!",loved location convenient
+10/9/24,1,109,109,P005,G1113,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+10/10/24,1,83,83,P005,G1113,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+10/11/24,1,196,196,P005,G1113,"Loved the location, very convenient!",loved location convenient
+10/12/24,1,190,190,P005,G1113,"Not as expected, had some issues.",expected issue
+10/13/24,1,187,187,P005,G1142,Great value for the price!,great value price
+10/14/24,1,165,165,P005,G1142,"A perfect stay, felt like home!",perfect stay felt like home
+10/15/24,1,151,151,P005,G1142,Host was very responsive and helpful!,host responsive helpful
+10/16/24,1,76,76,P005,G1142,Great value for the price!,great value price
+10/17/24,0,114,0,P005,G0,,
+10/18/24,1,133,133,P005,G1143,"A perfect stay, felt like home!",perfect stay felt like home
+10/19/24,0,177,0,P005,G0,,
+10/20/24,1,182,182,P005,G1144,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+10/21/24,1,157,157,P005,G1145,"Super cozy, highly recommend!",super cozy highly recommend
+10/22/24,1,116,116,P005,G1145,"Too loud at night, difficult to sleep.",loud night difficult sleep
+10/23/24,1,81,81,P005,G1145,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+10/24/24,1,122,122,P005,G1146,Would definitely stay here again!,would definitely stay
+10/25/24,1,203,203,P005,G1146,Host was very responsive and helpful!,host responsive helpful
+10/26/24,1,160,160,P005,G1146,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+10/27/24,0,174,0,P005,G0,,
+10/28/24,1,97,97,P005,G1055,"Great experience, would book again!",great experience would book
+10/29/24,1,92,92,P005,G1055,"Excellent amenities, everything as described!",excellent amenity everything described
+10/30/24,1,141,141,P005,G1055,Great value for the price!,great value price
+10/31/24,1,90,90,P005,G1055,Would definitely stay here again!,would definitely stay
+11/1/24,1,164,164,P005,G1055,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+11/2/24,1,158,158,P005,G1055,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+11/3/24,1,185,185,P005,G1055,"Loved the location, very convenient!",loved location convenient
+11/4/24,1,110,110,P005,G1055,"A perfect stay, felt like home!",perfect stay felt like home
+11/5/24,1,131,131,P005,G1147,"Loved the location, very convenient!",loved location convenient
+11/6/24,1,132,132,P005,G1148,"A perfect stay, felt like home!",perfect stay felt like home
+11/7/24,1,114,114,P005,G1132,"A perfect stay, felt like home!",perfect stay felt like home
+11/8/24,1,148,148,P005,G1132,Great value for the price!,great value price
+11/9/24,1,208,208,P005,G1132,"A perfect stay, felt like home!",perfect stay felt like home
+11/10/24,1,157,157,P005,G1149,"A perfect stay, felt like home!",perfect stay felt like home
+11/11/24,1,150,150,P005,G1149,"Loved the location, very convenient!",loved location convenient
+11/12/24,1,113,113,P005,G1149,Would definitely stay here again!,would definitely stay
+11/13/24,1,118,118,P005,G1149,"A perfect stay, felt like home!",perfect stay felt like home
+11/14/24,1,73,73,P005,G1149,"Great experience, would book again!",great experience would book
+11/15/24,1,185,185,P005,G1149,"A perfect stay, felt like home!",perfect stay felt like home
+11/16/24,1,186,186,P005,G1149,"A perfect stay, felt like home!",perfect stay felt like home
+11/17/24,1,183,183,P005,G1112,Would definitely stay here again!,would definitely stay
+11/18/24,1,83,83,P005,G1112,"A perfect stay, felt like home!",perfect stay felt like home
+11/19/24,1,136,136,P005,G1112,Would definitely stay here again!,would definitely stay
+11/20/24,1,135,135,P005,G1022,"A perfect stay, felt like home!",perfect stay felt like home
+11/21/24,1,102,102,P005,G1022,"Super cozy, highly recommend!",super cozy highly recommend
+11/22/24,0,201,0,P005,G0,,
+11/23/24,1,150,150,P005,G1150,"Loved the location, very convenient!",loved location convenient
+11/24/24,0,147,0,P005,G0,,
+11/25/24,1,146,146,P005,G1151,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+11/26/24,1,146,146,P005,G1151,Would definitely stay here again!,would definitely stay
+11/27/24,1,140,140,P005,G1151,"A perfect stay, felt like home!",perfect stay felt like home
+11/28/24,0,110,0,P005,G0,,
+11/29/24,1,206,206,P005,G1130,"Great experience, would book again!",great experience would book
+11/30/24,1,168,168,P005,G1130,"Not worth the price, expected better.",worth price expected better
+12/1/24,1,173,173,P005,G1152,Host was very responsive and helpful!,host responsive helpful
+12/2/24,1,158,158,P005,G1152,"Super cozy, highly recommend!",super cozy highly recommend
+12/3/24,1,108,108,P005,G1152,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+12/4/24,1,153,153,P005,G1152,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/5/24,1,86,86,P005,G1152,Would definitely stay here again!,would definitely stay
+12/6/24,1,147,147,P005,G1153,Host was very responsive and helpful!,host responsive helpful
+12/7/24,0,169,0,P005,G0,,
+12/8/24,1,164,164,P005,G1061,Great value for the price!,great value price
+12/9/24,1,160,160,P005,G1061,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+12/10/24,1,88,88,P005,G1061,"Super cozy, highly recommend!",super cozy highly recommend
+12/11/24,1,155,155,P005,G1061,Would definitely stay here again!,would definitely stay
+12/12/24,0,167,0,P005,G0,,
+12/13/24,1,161,161,P005,G1134,"Great experience, would book again!",great experience would book
+12/14/24,1,209,209,P005,G1134,"Great experience, would book again!",great experience would book
+12/15/24,1,163,163,P005,G1134,Would definitely stay here again!,would definitely stay
+12/16/24,1,104,104,P005,G1134,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+12/17/24,1,80,80,P005,G1019,Host was very responsive and helpful!,host responsive helpful
+12/18/24,1,121,121,P005,G1019,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+12/19/24,1,108,108,P005,G1019,"Not as expected, had some issues.",expected issue
+12/20/24,1,191,191,P005,G1079,Great value for the price!,great value price
+12/21/24,0,197,0,P005,G0,,
+12/22/24,1,210,210,P005,G1154,"Loved the location, very convenient!",loved location convenient
+12/23/24,1,93,93,P005,G1154,"Amenities were lacking, expected more.",amenity lacking expected
+12/24/24,1,105,105,P005,G1154,"A perfect stay, felt like home!",perfect stay felt like home
+12/25/24,1,139,139,P005,G1154,Would definitely stay here again!,would definitely stay
+12/26/24,1,90,90,P005,G1154,"A perfect stay, felt like home!",perfect stay felt like home
+12/27/24,1,145,145,P005,G1154,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+12/28/24,1,154,154,P005,G1154,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+12/29/24,1,149,149,P005,G1154,"Excellent amenities, everything as described!",excellent amenity everything described
+12/30/24,1,79,79,P005,G1154,"Super cozy, highly recommend!",super cozy highly recommend
+12/31/24,1,119,119,P005,G1154,Host was very responsive and helpful!,host responsive helpful
+1/1/25,1,114,114,P005,G1154,"Great experience, would book again!",great experience would book
+1/2/25,1,168,168,P005,G1154,"A perfect stay, felt like home!",perfect stay felt like home
+1/3/25,1,171,171,P005,G1154,Host was very responsive and helpful!,host responsive helpful
+1/4/25,0,184,0,P005,G0,,
+1/5/25,1,146,146,P005,G1155,"I was surprised to hear there were noise complaints from the neighbors because we were just having normal conversations and enjoying our time. I wouldn’t say we were being loud at all, but I guess the walls might be thin or the neighbors are just sensitive.",surprised hear noise complaint neighbor normal conversation enjoying time say loud guess wall might thin neighbor sensitive
+1/6/25,1,98,98,P005,G1080,,
+1/7/25,1,112,112,P005,G1080,"The space itself was nice, but if you’re someone who likes to have even a casual gathering, this might not be the best place to stay.",space nice someone like even casual gathering might best place stay
+1/8/25,0,157,0,P005,G0,,
+1/9/25,1,80,80,P005,G1045,"Great experience, would book again!",great experience would book
+1/10/25,1,140,140,P005,G1045,Host was very responsive and helpful!,host responsive helpful
+1/11/25,1,206,206,P005,G1067,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+1/12/25,1,152,152,P005,G1067,"Amazing stay, very clean and comfortable!",amazing stay clean comfortable
+1/13/25,1,107,107,P005,G1067,"Loved the location, very convenient!",loved location convenient
+1/14/25,0,108,0,P005,G0,,
+1/15/25,1,113,113,P005,G1150,"Not perfect for the area, felt overpriced.",perfect area felt overpriced
+1/16/25,1,110,110,P005,G1150,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/17/25,0,153,0,P005,G0,,
+1/18/25,1,193,193,P005,G1156,"Excellent amenities, everything as described!",excellent amenity everything described
+1/19/25,0,150,0,P005,G0,,
+1/20/25,1,102,102,P005,G1108,"A perfect stay, felt like home!",perfect stay felt like home
+1/21/25,1,114,114,P005,G1108,"Great experience, would book again!",great experience would book
+1/22/25,1,148,148,P005,G1108,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/23/25,1,102,102,P005,G1108,"Not worth the price, expected better.",worth price expected better
+1/24/25,1,130,130,P005,G1157,"A perfect stay, felt like home!",perfect stay felt like home
+1/25/25,1,171,171,P005,G1157,"A perfect stay, felt like home!",perfect stay felt like home
+1/26/25,1,183,183,P005,G1157,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/27/25,1,101,101,P005,G1157,"Excellent amenities, everything as described!",excellent amenity everything described
+1/28/25,1,110,110,P005,G1047,"Not worth the price, expected better.",worth price expected better
+1/29/25,0,130,0,P005,G0,,
+1/30/25,1,85,85,P005,G1158,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+1/31/25,1,202,202,P005,G1159,"Clean and well-maintained, fantastic experience!",clean fantastic experience
+2/1/25,1,165,165,P005,G1160,Host was very responsive and helpful!,host responsive helpful
