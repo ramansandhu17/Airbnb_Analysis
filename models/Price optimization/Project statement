@@ -1,0 +1,17 @@
+The goal is to recommend optimal nightly prices for Airbnb listings by analyzing patterns in:
+
+- Seasonality (e.g., prices are higher on weekends or holidays)
+
+- Historical demand (e.g., occupancy trends)
+
+- Property behavior (e.g., some listings do better in peak months)
+
+This model will:
+
+Help hosts set smart prices rather than guesswork or flat rates
+
+Capture what prices worked before in similar conditions
+
+Enable a data-driven pricing strategy that can adjust to market signals
+
+This is crucial in Airbnb-type platforms where overpricing leads to missed bookings, and underpricing leaves money on the table.
